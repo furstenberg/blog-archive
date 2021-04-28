@@ -7,6 +7,46 @@
 	"items": [
 		
 			{
+				"id": "http://furstenberg.micro.blog/2021/04/28/i-havent-had.html",
+				
+				"content_html": "<p>I haven’t had time to play much Monster Hunter Rise yet. But this latest <a href=\"https://youtu.be/OEkjJAJbkUo\">update</a> looks cool.</p>\n\n<p>🎮</p>\n",
+				"content_text": "I haven’t had time to play much Monster Hunter Rise yet. But this latest [update](https://youtu.be/OEkjJAJbkUo) looks cool. \n\n🎮\n",
+				"date_published": "2021-04-28T20:38:05+02:00",
+				"url": "https://furstenberg.co/2021/04/28/i-havent-had.html"
+			},
+			{
+				"id": "http://furstenberg.micro.blog/2021/04/24/as-im-watching.html",
+				
+				"content_html": "<p>As I’m watching the crew arrive at ISS <a href=\"https://youtu.be/DbB2-CCrzO0\">live on YouTube</a>, I tell my son how cool it is that we can watch this live.</p>\n\n<p>“Sure, it’s cool and all, but I’m playing online with my friends. <em>That’s cool!</em>.”</p>\n\n<p>😐</p>\n",
+				"content_text": "As I’m watching the crew arrive at ISS [live on YouTube](https://youtu.be/DbB2-CCrzO0), I tell my son how cool it is that we can watch this live. \n\n“Sure, it’s cool and all, but I’m playing online with my friends. _That’s cool!_.”\n\n😐\n",
+				"date_published": "2021-04-24T12:36:57+02:00",
+				"url": "https://furstenberg.co/2021/04/24/as-im-watching.html"
+			},
+			{
+				"id": "http://furstenberg.micro.blog/2021/04/22/get-the-floc.html",
+				
+				"content_html": "<p>“Get the FLoC out” by <a href=\"https://micro.blog/adactio\">@adactio</a> is a great read on Google Chrome and FLoC.</p>\n",
+				"content_text": "“Get the FLoC out” by [@adactio](https://micro.blog/adactio) is a great read on Google Chrome and FLoC.\n",
+				"date_published": "2021-04-22T14:53:08+02:00",
+				"url": "https://furstenberg.co/2021/04/22/get-the-floc.html"
+			},
+			{
+				"id": "http://furstenberg.micro.blog/2021/04/20/do-i-want.html",
+				
+				"content_html": "<p>Do I want one of those iMacs?</p>\n\n<p>Yes. Yes I do.</p>\n",
+				"content_text": "Do I want one of those iMacs?\n\nYes. Yes I do.\n",
+				"date_published": "2021-04-20T19:22:28+02:00",
+				"url": "https://furstenberg.co/2021/04/20/do-i-want.html"
+			},
+			{
+				"id": "http://furstenberg.micro.blog/2021/04/20/i-want-more.html",
+				
+				"content_html": "<p>I want more Ted Lasso, now! Not in July.</p>\n",
+				"content_text": "I want more Ted Lasso, now! Not in July.\n",
+				"date_published": "2021-04-20T19:14:32+02:00",
+				"url": "https://furstenberg.co/2021/04/20/i-want-more.html"
+			},
+			{
 				"id": "http://furstenberg.micro.blog/2021/04/20/is-it-event.html",
 				
 				"content_html": "<p>Is it  event time yet?</p>\n",
