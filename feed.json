@@ -7,6 +7,62 @@
 	"items": [
 		
 			{
+				"id": "http://furstenberg.micro.blog/2021/05/20/some-good-news.html",
+				
+				"content_html": "<p>Some good news.</p>\n\n<p><a href=\"https://plausible.io/blog/google-amp\">Google AMP is dead! AMP pages no longer get preferential treatment in Google search</a></p>\n",
+				"content_text": "Some good news. \n\n[Google AMP is dead! AMP pages no longer get preferential treatment in Google search](https://plausible.io/blog/google-amp)\n",
+				"date_published": "2021-05-20T17:29:43+02:00",
+				"url": "https://furstenberg.co/2021/05/20/some-good-news.html"
+			},
+			{
+				"id": "http://furstenberg.micro.blog/2021/05/19/i-have-a.html",
+				
+				"content_html": "<p>I have a 500/500 connection at home.</p>\n\n<p>There was no competition at the time if I wanted 50+ speeds, so even if I didn’t like the ISP, I picked it.</p>\n\n<p>Today my ISP just offered up 600/600 for free. 🤔</p>\n\n<p>I’m guessing I will have more options soon. 😉</p>\n",
+				"content_text": "I have a 500/500 connection at home.\n\nThere was no competition at the time if I wanted 50+ speeds, so even if I didn’t like the ISP, I picked it. \n\nToday my ISP just offered up 600/600 for free. 🤔\n\nI’m guessing I will have more options soon. 😉\n",
+				"date_published": "2021-05-19T14:07:43+02:00",
+				"url": "https://furstenberg.co/2021/05/19/i-have-a.html"
+			},
+			{
+				"id": "http://furstenberg.micro.blog/2021/05/18/ive-been-considering.html",
+				
+				"content_html": "<p>I&rsquo;ve been considering the iMac - in purple - but didn&rsquo;t order one. After the <a href=\"https://sixcolors.com/post/2021/05/24-inch-m1-imac-review/\">reviews</a> <a href=\"https://www.youtube.com/watch?v=atcFsp9hGgc\">dropped</a> <a href=\"https://www.youtube.com/watch?v=vSAa_ls9grQ\">today</a> I’m even more sure it will be a purple one.</p>\n\n<p>But it will be hard giving up the 27” size.</p>\n\n<p><img src=\"uploads/2021/5cb182103b.jpg\" width=\"600\" height=\"337\" alt=\"Purple iMac with purple Magic Keyboard with Touch ID sensor.\" /></p>\n",
+				"content_text": "I've been considering the iMac - in purple - but didn't order one. After the [reviews](https://sixcolors.com/post/2021/05/24-inch-m1-imac-review/) [dropped](https://www.youtube.com/watch?v=atcFsp9hGgc) [today](https://www.youtube.com/watch?v=vSAa_ls9grQ) I’m even more sure it will be a purple one.\n\nBut it will be hard giving up the 27” size.\n\n<img src=\"uploads/2021/5cb182103b.jpg\" width=\"600\" height=\"337\" alt=\"Purple iMac with purple Magic Keyboard with Touch ID sensor.\" />\n",
+				"date_published": "2021-05-18T19:35:44+02:00",
+				"url": "https://furstenberg.co/2021/05/18/ive-been-considering.html"
+			},
+			{
+				"id": "http://furstenberg.micro.blog/2021/05/17/currently-reading-wolves.html",
+				
+				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9781880418567\">Wolves of the Calla (Dark Tower)</a> by Stephen King 📚</p>\n\n<p>And the ka-tet moves on.</p>\n",
+				"content_text": "Currently reading: [Wolves of the Calla (Dark Tower)](https://micro.blog/books/9781880418567) by Stephen King 📚\r\n\r\nAnd the ka-tet moves on.\n",
+				"date_published": "2021-05-17T20:16:13+02:00",
+				"url": "https://furstenberg.co/2021/05/17/currently-reading-wolves.html"
+			},
+			{
+				"id": "http://furstenberg.micro.blog/2021/05/17/finished-reading-the.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780340696613\">The Dark Tower: Wizard and Glass v. 4 (The dark tower)</a> by Stephen King 📚</p>\n\n<p>I last read this book when it was new. And I was surprised how many aspects of the book I had forgotten.</p>\n\n<p>The book is great and I continue to love this series.</p>\n",
+				"content_text": "Finished reading: [The Dark Tower: Wizard and Glass v. 4 (The dark tower)](https://micro.blog/books/9780340696613) by Stephen King 📚\r\n\r\nI last read this book when it was new. And I was surprised how many aspects of the book I had forgotten. \r\n\r\nThe book is great and I continue to love this series.\n",
+				"date_published": "2021-05-17T20:14:52+02:00",
+				"url": "https://furstenberg.co/2021/05/17/finished-reading-the.html"
+			},
+			{
+				"id": "http://furstenberg.micro.blog/2021/05/16/so-my-son.html",
+				
+				"content_html": "<p>So my son got very excited when he discovered that our new tv has a web browser.</p>\n\n<blockquote>\n<p>“Now I can play my maths game on the TV!”</p>\n</blockquote>\n\n<p>We might have raised a nerd… 🤘</p>\n",
+				"content_text": "So my son got very excited when he discovered that our new tv has a web browser. \n\n> “Now I can play my maths game on the TV!”\n\nWe might have raised a nerd… 🤘\n",
+				"date_published": "2021-05-16T19:15:56+02:00",
+				"url": "https://furstenberg.co/2021/05/16/so-my-son.html"
+			},
+			{
+				"id": "http://furstenberg.micro.blog/2021/05/16/my-boy-age.html",
+				
+				"content_html": "<p>My boy, age 9, is playing Sam &amp; Max.</p>\n\n<p>The circle is closed!</p>\n",
+				"content_text": "My boy, age 9, is playing Sam & Max. \n\nThe circle is closed!\n",
+				"date_published": "2021-05-16T15:08:15+02:00",
+				"url": "https://furstenberg.co/2021/05/16/my-boy-age.html"
+			},
+			{
 				"id": "http://furstenberg.micro.blog/2021/05/12/the-news-that.html",
 				
 				"content_html": "<p>The news that I’ve feared for some time was announced today.</p>\n\n<p>The <a href=\"https://www.beyondthegates.no/news/https/wwwbeyondthegatesno/news/new-post-3\">Beyond the Gates</a> festival has been postponed to 2022.</p>\n\n<p>Not surprising given the current situation, but damn it would be fun with a festival in August.</p>\n",
