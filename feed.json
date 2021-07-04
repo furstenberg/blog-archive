@@ -7,6 +7,54 @@
 	"items": [
 		
 			{
+				"id": "http://furstenberg.micro.blog/2021/07/04/finished-reading-artificial.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781250186928\">Artificial Condition: The Murderbot Diaries (The Murderbot Diaries, 2)</a> by Martha Wells 📚</p>\n\n<p>This series continue to be very enjoyable.</p>\n",
+				"content_text": "Finished reading: [Artificial Condition: The Murderbot Diaries (The Murderbot Diaries, 2)](https://micro.blog/books/9781250186928) by Martha Wells 📚\r\n\r\nThis series continue to be very enjoyable.\n",
+				"date_published": "2021-07-04T06:15:03+02:00",
+				"url": "https://furstenberg.co/2021/07/04/finished-reading-artificial.html"
+			},
+			{
+				"id": "http://furstenberg.micro.blog/2021/06/09/i-received-my.html",
+				
+				"content_html": "<p>I received my preorder for <a href=\"https://micro.blog/books/9780062468710\">The Hidden Palace</a> by Helene Wecker yesterday.</p>\n\n<p>Which means I will have to finish up <a href=\"https://micro.blog/books/9780007480197\">The Golem and the Djinni</a> soon so I can start reading it!\n📚</p>\n",
+				"content_text": "I received my preorder for [The Hidden Palace](https://micro.blog/books/9780062468710) by Helene Wecker yesterday.\r\n\r\nWhich means I will have to finish up [The Golem and the Djinni](https://micro.blog/books/9780007480197) soon so I can start reading it!\r\n📚\n",
+				"date_published": "2021-06-09T11:47:51+02:00",
+				"url": "https://furstenberg.co/2021/06/09/i-received-my.html"
+			},
+			{
+				"id": "http://furstenberg.micro.blog/2021/06/09/next-wwdc-session.html",
+				
+				"content_html": "<p>Next WWDC session is <a href=\"https://developer.apple.com/videos/play/wwdc2021-10176\">Craft search experiences in SwiftUI</a>.</p>\n\n<p>Adding searchable modifiers to a navigationView to add search looks really convenient. I like how it translates well across platforms. And with search suggestions in the mix as well, this looks like a good start.</p>\n\n<p>#wwdc</p>\n",
+				"content_text": "Next WWDC session is [Craft search experiences in SwiftUI](https://developer.apple.com/videos/play/wwdc2021-10176).\n\nAdding searchable modifiers to a navigationView to add search looks really convenient. I like how it translates well across platforms. And with search suggestions in the mix as well, this looks like a good start.\n\n#wwdc\n",
+				"date_published": "2021-06-09T08:52:23+02:00",
+				"url": "https://furstenberg.co/2021/06/09/next-wwdc-session.html"
+			},
+			{
+				"id": "http://furstenberg.micro.blog/2021/06/09/i-use-my.html",
+				
+				"content_html": "<p>I use my Apple Watch a lot. So I was very interested to see <a href=\"https://developer.apple.com/videos/play/wwdc2021/10002/\">What&rsquo;s new in watchOS 8</a>.</p>\n\n<p>The most exiting thing for me are the new APIs for the Always-On Retina display. I think this can improve the always-on experience a lot.</p>\n\n<p>And good too see improvements to accessibility.</p>\n\n<p>#WWDC</p>\n",
+				"content_text": "I use my Apple Watch a lot. So I was very interested to see [What's new in watchOS 8](https://developer.apple.com/videos/play/wwdc2021/10002/).\n\nThe most exiting thing for me are the new APIs for the Always-On Retina display. I think this can improve the always-on experience a lot. \n\nAnd good too see improvements to accessibility.\n\n#WWDC\n",
+				"date_published": "2021-06-09T08:12:52+02:00",
+				"url": "https://furstenberg.co/2021/06/09/i-use-my.html"
+			},
+			{
+				"id": "http://furstenberg.micro.blog/2021/06/08/ive-started-watching.html",
+				
+				"content_html": "<p>I&rsquo;ve started watching some of the session videos out of WWDC.</p>\n\n<p>First out, <a href=\"https://developer.apple.com/videos/play/wwdc2021/10170/\">Meet TestFlight on Mac</a>.</p>\n\n<p>Not a very exiting session, since it was exactly as expected. But nice that it’s finally arriving on the Mac. 😃</p>\n\n<p>#WWDC</p>\n",
+				"content_text": "I've started watching some of the session videos out of WWDC.\n\nFirst out, [Meet TestFlight on Mac](https://developer.apple.com/videos/play/wwdc2021/10170/).\n\nNot a very exiting session, since it was exactly as expected. But nice that it’s finally arriving on the Mac. 😃\n\n#WWDC\n",
+				"date_published": "2021-06-08T22:14:38+02:00",
+				"url": "https://furstenberg.co/2021/06/08/ive-started-watching.html"
+			},
+			{
+				"id": "http://furstenberg.micro.blog/2021/06/07/so-with-swift.html",
+				
+				"content_html": "<p>So with Swift Playgrounds being able to build apps, would that count as a Pro app on your iPad?</p>\n",
+				"content_text": "So with Swift Playgrounds being able to build apps, would that count as a Pro app on your iPad?\n",
+				"date_published": "2021-06-07T19:51:13+02:00",
+				"url": "https://furstenberg.co/2021/06/07/so-with-swift.html"
+			},
+			{
 				"id": "http://furstenberg.micro.blog/2021/06/07/im-really-excited.html",
 				
 				"content_html": "<p>I’m really excited for WWDC this year. Despite how some at Apple <a href=\"https://marco.org/2021/06/03/developer-relations\">perceives developers</a>.</p>\n\n<p>So time to repeat the yearly mantra:</p>\n\n<blockquote>\n<p>“I will not install beta 1 on my main devices”.</p>\n</blockquote>\n\n<p>🍏</p>\n",
