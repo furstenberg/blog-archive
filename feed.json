@@ -7,6 +7,46 @@
 	"items": [
 		
 			{
+				"id": "http://furstenberg.micro.blog/2021/07/29/first-shot-done.html",
+				
+				"content_html": "<p>First shot done! 🎉</p>\n",
+				"content_text": "First shot done! 🎉\n",
+				"date_published": "2021-07-29T11:06:46+02:00",
+				"url": "https://furstenberg.co/2021/07/29/first-shot-done.html"
+			},
+			{
+				"id": "http://furstenberg.micro.blog/2021/07/28/taking-a-break.html",
+				
+				"content_html": "<p>Taking a break from listening to the new Iron Maiden song on repeat to listen more to <a href=\"https://spacechaser.bandcamp.com/album/give-us-life\">Space Chaser - Give Us Life</a>.</p>\n\n<p>If you like old early 80s Trash metal like Exodus and Slayer give this a listen. 🤘</p>\n",
+				"content_text": "Taking a break from listening to the new Iron Maiden song on repeat to listen more to [Space Chaser - Give Us Life](https://spacechaser.bandcamp.com/album/give-us-life). \n\nIf you like old early 80s Trash metal like Exodus and Slayer give this a listen. 🤘\n",
+				"date_published": "2021-07-28T13:15:09+02:00",
+				"url": "https://furstenberg.co/2021/07/28/taking-a-break.html"
+			},
+			{
+				"id": "http://furstenberg.micro.blog/2021/07/27/what-you-dont.html",
+				
+				"content_html": "<p>What you <em>don’t</em> want to hear when your new purple iMac is supposed to be delivered the same day:</p>\n\n<blockquote>\n<p>Shipment delayed in transit Recovery actions underway</p>\n</blockquote>\n",
+				"content_text": "What you _don’t_ want to hear when your new purple iMac is supposed to be delivered the same day:\n\n> Shipment delayed in transit Recovery actions underway\n",
+				"date_published": "2021-07-27T15:53:36+02:00",
+				"url": "https://furstenberg.co/2021/07/27/what-you-dont.html"
+			},
+			{
+				"id": "http://furstenberg.micro.blog/2021/07/24/my-dad-was.html",
+				"title": "My dad was an Iron Maiden fan",
+				"content_html": "<p>Almost 40 years ago my dad put on Iron Maiden and said “I think you’ll like this”.</p>\n\n<p>He was right.</p>\n\n<p>Me and my dad always talked music. Always. If I discovered a new band, song or album I would message him about it, if I thought he’d like it.</p>\n\n<p>My dad passed away earlier this year. But I still pick up my phone to call or message him when I hear something new and cool. Every time!</p>\n\n<p>And then I remember.</p>\n\n<p>I know this will change. But not discussing a <a href=\"https://furstenberg.co/2021/07/19/iron-maiden-senjutsu.html\">new Maiden album</a> with him will be strange.</p>\n\n<p>FUCK CANCER!</p>\n",
+				"content_text": "Almost 40 years ago my dad put on Iron Maiden and said “I think you’ll like this”. \n\nHe was right.\n\nMe and my dad always talked music. Always. If I discovered a new band, song or album I would message him about it, if I thought he’d like it.\n\nMy dad passed away earlier this year. But I still pick up my phone to call or message him when I hear something new and cool. Every time!\n\nAnd then I remember. \n\nI know this will change. But not discussing a [new Maiden album](https://furstenberg.co/2021/07/19/iron-maiden-senjutsu.html) with him will be strange.\n\nFUCK CANCER!\n",
+				"date_published": "2021-07-24T17:19:12+02:00",
+				"url": "https://furstenberg.co/2021/07/24/my-dad-was.html"
+			},
+			{
+				"id": "http://furstenberg.micro.blog/2021/07/23/so-this-happened.html",
+				
+				"content_html": "<p>So this happened…</p>\n\n<p>🖥✈️🥳</p>\n\n<p><img src=\"uploads/2021/546befaa23.jpg\" width=\"563\" height=\"245\" alt=\"Apple iMac 24” delivered in 4 days.\" /></p>\n",
+				"content_text": "So this happened…\n\n🖥✈️🥳\n\n<img src=\"uploads/2021/546befaa23.jpg\" width=\"563\" height=\"245\" alt=\"Apple iMac 24” delivered in 4 days.\" />\n",
+				"date_published": "2021-07-23T19:12:52+02:00",
+				"url": "https://furstenberg.co/2021/07/23/so-this-happened.html"
+			},
+			{
 				"id": "http://furstenberg.micro.blog/2021/07/22/finished-reading-exit.html",
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781250191854\">Exit Strategy: The Murderbot Diaries (The Murderbot Diaries, 4)</a> by Martha Wells 📚</p>\n\n<p>This fourth book in the series connects Murderbot with it&rsquo;s humans again. Is it entertaining? You bet it is.</p>\n",
