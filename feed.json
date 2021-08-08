@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://furstenberg.micro.blog/2021/08/08/so-i-got.html",
+				
+				"content_html": "<p>So I got this game earlier this week. Apparently if you have a PS5 you need it.  🎮</p>\n\n<p><img src=\"uploads/2021/201f2e4bbf.jpg\" alt=“Recently played: Demon’s Souls”/></p>\n",
+				"content_text": "So I got this game earlier this week. Apparently if you have a PS5 you need it.  🎮\n\n<img src=\"uploads/2021/201f2e4bbf.jpg\" alt=“Recently played: Demon’s Souls”/>\n",
+				"date_published": "2021-08-08T08:55:57+02:00",
+				"url": "https://furstenberg.co/2021/08/08/so-i-got.html"
+			},
+			{
+				"id": "http://furstenberg.micro.blog/2021/08/03/so-i-installed.html",
+				
+				"content_html": "<p>So I installed iOS 15 today.</p>\n\n<p>On my main phone. 🤔</p>\n",
+				"content_text": "So I installed iOS 15 today. \n\nOn my main phone. 🤔\n",
+				"date_published": "2021-08-03T19:45:38+02:00",
+				"url": "https://furstenberg.co/2021/08/03/so-i-installed.html"
+			},
+			{
 				"id": "http://furstenberg.micro.blog/2021/07/29/first-shot-done.html",
 				
 				"content_html": "<p>First shot done! 🎉</p>\n",
@@ -41,8 +57,8 @@
 			{
 				"id": "http://furstenberg.micro.blog/2021/07/23/so-this-happened.html",
 				
-				"content_html": "<p>So this happened…</p>\n\n<p>🖥✈️🥳</p>\n\n<p><img src=\"uploads/2021/546befaa23.jpg\" width=\"563\" height=\"245\" alt=\"Apple iMac 24” delivered in 4 days.\" /></p>\n",
-				"content_text": "So this happened…\n\n🖥✈️🥳\n\n<img src=\"uploads/2021/546befaa23.jpg\" width=\"563\" height=\"245\" alt=\"Apple iMac 24” delivered in 4 days.\" />\n",
+				"content_html": "<p>So this happened…</p>\n\n<p>🖥✈️🥳</p>\n\n<p><img src=\"https://furstenberg.co/uploads/2021/546befaa23.jpg\" width=\"563\" height=\"245\" alt=\"Apple iMac 24” delivered in 4 days.\" /></p>\n",
+				"content_text": "So this happened…\n\n🖥✈️🥳\n\n<img src=\"https://furstenberg.co/uploads/2021/546befaa23.jpg\" width=\"563\" height=\"245\" alt=\"Apple iMac 24” delivered in 4 days.\" />\n",
 				"date_published": "2021-07-23T19:12:52+02:00",
 				"url": "https://furstenberg.co/2021/07/23/so-this-happened.html"
 			},
