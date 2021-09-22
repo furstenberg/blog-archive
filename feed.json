@@ -7,6 +7,30 @@
 	"items": [
 		
 			{
+				"id": "http://furstenberg.micro.blog/2021/09/22/just-watched-the.html",
+				
+				"content_html": "<p>Just watched the first episode of  <a href=\"https://www.starwars.com/news/star-wars-visions-trailer-and-cast\">Star Wars: Visions</a>.</p>\n\n<p>🔥🔥🔥</p>\n",
+				"content_text": "Just watched the first episode of  [Star Wars: Visions](https://www.starwars.com/news/star-wars-visions-trailer-and-cast). \n\n🔥🔥🔥\n",
+				"date_published": "2021-09-22T22:13:05+02:00",
+				"url": "https://furstenberg.co/2021/09/22/just-watched-the.html"
+			},
+			{
+				"id": "http://furstenberg.micro.blog/2021/09/14/getting-ready-for.html",
+				
+				"content_html": "<p>Getting ready for the 🍏 event.</p>\n",
+				"content_text": "Getting ready for the 🍏 event. \n",
+				"date_published": "2021-09-14T18:44:09+02:00",
+				"url": "https://furstenberg.co/2021/09/14/getting-ready-for.html"
+			},
+			{
+				"id": "http://furstenberg.micro.blog/2021/09/08/currently-reading-song.html",
+				
+				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9780340827185\">Song of Susannah (Dark Tower)</a> by Stephen King 📚</p>\n",
+				"content_text": "Currently reading: [Song of Susannah (Dark Tower)](https://micro.blog/books/9780340827185) by Stephen King 📚\n",
+				"date_published": "2021-09-08T20:03:53+02:00",
+				"url": "https://furstenberg.co/2021/09/08/currently-reading-song.html"
+			},
+			{
 				"id": "http://furstenberg.micro.blog/2021/09/08/finished-reading-wolves.html",
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781880418567\">Wolves of the Calla (Dark Tower)</a> by Stephen King 📚</p>\n",
