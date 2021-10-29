@@ -7,6 +7,38 @@
 	"items": [
 		
 			{
+				"id": "http://furstenberg.micro.blog/2021/10/29/finished-reading-when.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781250786135\">When the Tiger Came Down the Mountain (The Singing Hills Cycle, 2)</a> by Nghi Vo 📚</p>\n",
+				"content_text": "Finished reading: [When the Tiger Came Down the Mountain (The Singing Hills Cycle, 2)](https://micro.blog/books/9781250786135) by Nghi Vo 📚\n",
+				"date_published": "2021-10-29T15:17:19+02:00",
+				"url": "https://furstenberg.co/2021/10/29/finished-reading-when.html"
+			},
+			{
+				"id": "http://furstenberg.micro.blog/2021/10/24/currently-reading-when.html",
+				
+				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9781250786135\">When the Tiger Came Down the Mountain (The Singing Hills Cycle, 2)</a> by Nghi Vo 📚</p>\n",
+				"content_text": "Currently reading: [When the Tiger Came Down the Mountain (The Singing Hills Cycle, 2)](https://micro.blog/books/9781250786135) by Nghi Vo 📚\n",
+				"date_published": "2021-10-24T09:07:28+02:00",
+				"url": "https://furstenberg.co/2021/10/24/currently-reading-when.html"
+			},
+			{
+				"id": "http://furstenberg.micro.blog/2021/10/24/finished-reading-the.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781250750303\">The Empress Of Salt And Fortune</a> by Nghi Vo 📚</p>\n",
+				"content_text": "Finished reading: [The Empress Of Salt And Fortune](https://micro.blog/books/9781250750303) by Nghi Vo 📚\n",
+				"date_published": "2021-10-24T09:04:18+02:00",
+				"url": "https://furstenberg.co/2021/10/24/finished-reading-the.html"
+			},
+			{
+				"id": "http://furstenberg.micro.blog/2021/10/22/you-had-me.html",
+				
+				"content_html": "<p>You had me at “next game”.</p>\n\n<blockquote>\n<p>After dedicating 10 years of my life to Stardew Valley (and counting), the time has finally come to announce my next game.</p>\n</blockquote>\n\n<p>It’s called <a href=\"https://www.hauntedchocolatier.net/\">ConcernedApe&rsquo;s Haunted Chocolatier</a>.</p>\n",
+				"content_text": "You had me at “next game”. \n\n> After dedicating 10 years of my life to Stardew Valley (and counting), the time has finally come to announce my next game.\n\nIt’s called [ConcernedApe's Haunted Chocolatier](https://www.hauntedchocolatier.net/).\n",
+				"date_published": "2021-10-22T20:38:23+02:00",
+				"url": "https://furstenberg.co/2021/10/22/you-had-me.html"
+			},
+			{
 				"id": "http://furstenberg.micro.blog/2021/10/20/currently-reading-the.html",
 				
 				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9781250750303\">The Empress of Salt and Fortune</a> by Nghi Vo 📚</p>\n",
