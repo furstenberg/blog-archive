@@ -7,6 +7,30 @@
 	"items": [
 		
 			{
+				"id": "http://furstenberg.micro.blog/2021/11/06/finished-reading-network.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781250229847\">Network Effect</a> by Martha Wells 📚</p>\n",
+				"content_text": "Finished reading: [Network Effect](https://micro.blog/books/9781250229847) by Martha Wells 📚\n",
+				"date_published": "2021-11-06T10:47:38+02:00",
+				"url": "https://furstenberg.co/2021/11/06/finished-reading-network.html"
+			},
+			{
+				"id": "http://furstenberg.micro.blog/2021/10/31/this-is-halloweenthis.html",
+				
+				"content_html": "<p>🎃🎵 This is Halloween…This is Halloween 🎵🎃</p>\n",
+				"content_text": "🎃🎵 This is Halloween…This is Halloween 🎵🎃\n",
+				"date_published": "2021-10-31T17:38:32+02:00",
+				"url": "https://furstenberg.co/2021/10/31/this-is-halloweenthis.html"
+			},
+			{
+				"id": "http://furstenberg.micro.blog/2021/10/31/yesterday-morning-and.html",
+				
+				"content_html": "<p>Yesterday morning and this morning we have started the day by watching Ponyo and Totoro respectively.</p>\n\n<p>Just me and my youngest daughter.</p>\n\n<p>Studio Ghibli movies are pure magic and I just love mornings like these.</p>\n\n<p>🍿</p>\n",
+				"content_text": "Yesterday morning and this morning we have started the day by watching Ponyo and Totoro respectively. \n\nJust me and my youngest daughter. \n\nStudio Ghibli movies are pure magic and I just love mornings like these. \n\n🍿\n",
+				"date_published": "2021-10-31T09:55:07+02:00",
+				"url": "https://furstenberg.co/2021/10/31/yesterday-morning-and.html"
+			},
+			{
 				"id": "http://furstenberg.micro.blog/2021/10/29/finished-reading-when.html",
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781250786135\">When the Tiger Came Down the Mountain (The Singing Hills Cycle, 2)</a> by Nghi Vo 📚</p>\n",
