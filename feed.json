@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://furstenberg.micro.blog/2021/11/17/finished-reading-dune.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781101658055\">Dune</a> by Frank Herbert 📚</p>\n",
+				"content_text": "Finished reading: [Dune](https://micro.blog/books/9781101658055) by Frank Herbert 📚\n",
+				"date_published": "2021-11-17T22:21:19+02:00",
+				"url": "https://furstenberg.co/2021/11/17/finished-reading-dune.html"
+			},
+			{
 				"id": "http://furstenberg.micro.blog/2021/11/06/finished-reading-network.html",
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781250229847\">Network Effect</a> by Martha Wells 📚</p>\n",
