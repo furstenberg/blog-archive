@@ -7,6 +7,30 @@
 	"items": [
 		
 			{
+				"id": "http://furstenberg.micro.blog/2021/12/29/im-so-glad.html",
+				
+				"content_html": "<p>I’m so glad I bought the <a href=\"https://www.apple.com/iphone-13/\">iphone 13 mini</a> earlier this year.</p>\n\n<p>This size is so much better. Even if the camera is better on the pro models.</p>\n\n<p>I think I might even prefer it to be smaller.</p>\n",
+				"content_text": "I’m so glad I bought the [iphone 13 mini](https://www.apple.com/iphone-13/) earlier this year. \n\nThis size is so much better. Even if the camera is better on the pro models. \n\nI think I might even prefer it to be smaller. \n",
+				"date_published": "2021-12-29T23:54:08+01:00",
+				"url": "https://furstenberg.co/2021/12/29/im-so-glad.html"
+			},
+			{
+				"id": "http://furstenberg.micro.blog/2021/12/29/just-pressed-play.html",
+				
+				"content_html": "<p>Just pressed play on <a href=\"https://www.starwars.com/series/the-book-of-boba-fett\">The Book of Boba Fett</a>.</p>\n\n<p>Excitement level: high!</p>\n\n<p>📺</p>\n",
+				"content_text": "Just pressed play on [The Book of Boba Fett](https://www.starwars.com/series/the-book-of-boba-fett). \n\nExcitement level: high!\n\n📺\n",
+				"date_published": "2021-12-29T10:26:31+01:00",
+				"url": "https://furstenberg.co/2021/12/29/just-pressed-play.html"
+			},
+			{
+				"id": "http://furstenberg.micro.blog/2021/12/29/finished-reading-the.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780007480197\">The Golem and the Djinni</a> by Helene Wecker 📚</p>\n",
+				"content_text": "Finished reading: [The Golem and the Djinni](https://micro.blog/books/9780007480197) by Helene Wecker 📚\n",
+				"date_published": "2021-12-29T09:22:53+01:00",
+				"url": "https://furstenberg.co/2021/12/29/finished-reading-the.html"
+			},
+			{
 				"id": "http://furstenberg.micro.blog/2021/12/22/finally-time-to.html",
 				
 				"content_html": "<p>Finally time to switch over to vacation mode. 🎄</p>\n",
