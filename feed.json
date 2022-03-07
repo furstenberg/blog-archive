@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://furstenberg.micro.blog/2022/03/07/craig-abbott-has.html",
+				
+				"content_html": "<p>Craig Abbott has written one of the best posts about web accessibility I’ve read in a long time.</p>\n\n<blockquote>\n<p>Lets be clear, WCAG 2.1 AA is a binary standard. You either pass all of the required criteria, or you don’t.</p>\n</blockquote>\n\n<p><a href=\"https://www.craigabbott.co.uk/blog/partially-supported-is-not-supported\">Partially supported is not supported</a></p>\n",
+				"content_text": "Craig Abbott has written one of the best posts about web accessibility I’ve read in a long time. \n\n> Lets be clear, WCAG 2.1 AA is a binary standard. You either pass all of the required criteria, or you don’t. \n\n[Partially supported is not supported](https://www.craigabbott.co.uk/blog/partially-supported-is-not-supported)\n\n",
+				"date_published": "2022-03-07T07:34:50+01:00",
+				"url": "https://furstenberg.co/2022/03/07/craig-abbott-has.html"
+			},
+			{
+				"id": "http://furstenberg.micro.blog/2022/02/26/083348.html",
+				
+				"content_html": "<p>Really like the new Röyksopp song  <a href=\"https://royksopp.com/2022/02/this-time-this-place/\">This Time, This Place…</a>.</p>\n\n<p>Very club friendly.  Hope they can bring back some Aedena Cycle or Drum Island vibes on the new album as well.</p>\n",
+				"content_text": "Really like the new Röyksopp song  [This Time, This Place…](https://royksopp.com/2022/02/this-time-this-place/).\n\nVery club friendly.  Hope they can bring back some Aedena Cycle or Drum Island vibes on the new album as well.\n",
+				"date_published": "2022-02-26T08:33:48+01:00",
+				"url": "https://furstenberg.co/2022/02/26/083348.html"
+			},
+			{
 				"id": "http://furstenberg.micro.blog/2022/02/25/so-im-currently.html",
 				
 				"content_html": "<p>So I’m currently working on not seeing the message “You died”.</p>\n\n<p>Yes I’m playing Elden Ring.</p>\n\n<p>🎮</p>\n",
