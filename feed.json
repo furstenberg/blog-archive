@@ -7,6 +7,46 @@
 	"items": [
 		
 			{
+				"id": "http://furstenberg.micro.blog/2022/05/03/im-back-playing.html",
+				
+				"content_html": "<p>I’m back playing Celeste again.</p>\n\n<p>I never get tired of this game. Such a masterpiece.</p>\n\n<p>🎮</p>\n",
+				"content_text": "I’m back playing Celeste again. \n\nI never get tired of this game. Such a masterpiece. \n\n🎮\n",
+				"date_published": "2022-05-03T21:01:45+02:00",
+				"url": "https://furstenberg.co/2022/05/03/im-back-playing.html"
+			},
+			{
+				"id": "http://furstenberg.micro.blog/2022/05/02/day-photo.html",
+				
+				"content_html": "<p>📷 Day 2: <strong>photo</strong></p>\n\n<p><img src=\"uploads/2022/cb2a15b3ee.jpg\" width=\"600\" height=\"600\" alt=\"Reflection in a mirror of a phone taking a picture of the reflection.\" /></p>\n\n<p>#mbmay</p>\n",
+				"content_text": "📷 Day 2: **photo** \n\n<img src=\"uploads/2022/cb2a15b3ee.jpg\" width=\"600\" height=\"600\" alt=\"Reflection in a mirror of a phone taking a picture of the reflection.\" />\n\n#mbmay\n",
+				"date_published": "2022-05-02T18:38:02+02:00",
+				"url": "https://furstenberg.co/2022/05/02/day-photo.html"
+			},
+			{
+				"id": "http://furstenberg.micro.blog/2022/05/01/i-play-them.html",
+				
+				"content_html": "<p>📷 Day 1: <strong>switch</strong></p>\n\n<p>I play them both. Will I play the Switch in twenty years?</p>\n\n<p><img src=\"uploads/2022/88ebec9c68.jpg\" width=\"600\" height=\"450\" alt=\"A Nintendo Switch is positioned behind a Nintendo Gameboy Advance SP.\" /></p>\n\n<p>#mbmay</p>\n",
+				"content_text": "📷 Day 1: **switch** \n\nI play them both. Will I play the Switch in twenty years?\n\n<img src=\"uploads/2022/88ebec9c68.jpg\" width=\"600\" height=\"450\" alt=\"A Nintendo Switch is positioned behind a Nintendo Gameboy Advance SP.\" />\n\n#mbmay\n",
+				"date_published": "2022-05-01T09:35:46+02:00",
+				"url": "https://furstenberg.co/2022/05/01/i-play-them.html"
+			},
+			{
+				"id": "http://furstenberg.micro.blog/2022/01/14/today-years-ago.html",
+				
+				"content_html": "<p>Today, 5 years ago, I posted my first post on my blog here at Micro.blog.</p>\n\n<p>I&rsquo;m so glad it&rsquo;s still around.</p>\n",
+				"content_text": "Today, 5 years ago, I posted my first post on my blog here at Micro.blog. \n\nI'm so glad it's still around.\n",
+				"date_published": "2022-04-28T09:00:00+02:00",
+				"url": "https://furstenberg.co/2022/01/14/today-years-ago.html"
+			},
+			{
+				"id": "http://furstenberg.micro.blog/2022/04/27/im-not-sure.html",
+				
+				"content_html": "<p>I&rsquo;m not sure I&rsquo;ve linked to <a href=\"https://briefs.video\">Webbed Briefs</a> by Heydon Pickering before.</p>\n\n<p>Somehow I had not watched the latest episode titled <a href=\"https://briefs.video/videos/is-html-a-programming-language/\">Is HTML a Programming Language</a>.</p>\n\n<p>As always it&rsquo;s bloody brilliant!</p>\n",
+				"content_text": "I'm not sure I've linked to [Webbed Briefs](https://briefs.video) by Heydon Pickering before. \n\nSomehow I had not watched the latest episode titled [Is HTML a Programming Language](https://briefs.video/videos/is-html-a-programming-language/).\n\nAs always it's bloody brilliant!\n",
+				"date_published": "2022-04-27T13:07:51+02:00",
+				"url": "https://furstenberg.co/2022/04/27/im-not-sure.html"
+			},
+			{
 				"id": "http://furstenberg.micro.blog/2022/04/26/currently-reading-homecoming.html",
 				
 				"content_html": "<p>Currently reading <a href=\"https://dmoren.com/writing/short-stories/\">Homecoming</a> by Dan Moren. 📚</p>\n",
@@ -377,8 +417,8 @@
 			{
 				"id": "http://furstenberg.micro.blog/2021/08/25/imac-inch-m.html",
 				"title": "iMac (24-inch, M1, 2021) 🖥",
-				"content_html": "<p><img src=\"uploads/2021/bb54a7ffbb.jpg\" alt=\"iMac (24-inch, M1, 2021) in it's packaging\" width=\"450\" height=\"600\" /></p>\n\n<p>This summer I got a <a href=\"https://www.apple.com/v/imac-24/b/images/overview/color_front_purple__bxvrajaaheeu_large_2x.jpg\">purple M1 iMac</a>.</p>\n\n<p>I&rsquo;ve now been using this for around a month and I simply <strong>love</strong> this machine.</p>\n\n<p>We have several M1 machines in the house already, so I knew how good they were. And frankly the internet is filled with people talking about their M1 iMacs. But it seems that I had missed having a &ldquo;good&rdquo; desktop machine more than I knew.</p>\n\n<p>The fact that I have to decide to go into the office to use it, instead of just picking up one of the many mobile devices around the house, makes it a conscious choice. And new habits have started to form around using it.</p>\n",
-				"content_text": "<img src=\"uploads/2021/bb54a7ffbb.jpg\" alt=\"iMac (24-inch, M1, 2021) in it's packaging\" width=\"450\" height=\"600\" />\n\n\nThis summer I got a [purple M1 iMac](https://www.apple.com/v/imac-24/b/images/overview/color_front_purple__bxvrajaaheeu_large_2x.jpg).\n\nI've now been using this for around a month and I simply **love** this machine. \n\nWe have several M1 machines in the house already, so I knew how good they were. And frankly the internet is filled with people talking about their M1 iMacs. But it seems that I had missed having a \"good\" desktop machine more than I knew.\n\nThe fact that I have to decide to go into the office to use it, instead of just picking up one of the many mobile devices around the house, makes it a conscious choice. And new habits have started to form around using it.\n",
+				"content_html": "<p><img src=\"https://furstenberg.co/uploads/2021/bb54a7ffbb.jpg\" alt=\"iMac (24-inch, M1, 2021) in it's packaging\" width=\"450\" height=\"600\" /></p>\n\n<p>This summer I got a <a href=\"https://www.apple.com/v/imac-24/b/images/overview/color_front_purple__bxvrajaaheeu_large_2x.jpg\">purple M1 iMac</a>.</p>\n\n<p>I&rsquo;ve now been using this for around a month and I simply <strong>love</strong> this machine.</p>\n\n<p>We have several M1 machines in the house already, so I knew how good they were. And frankly the internet is filled with people talking about their M1 iMacs. But it seems that I had missed having a &ldquo;good&rdquo; desktop machine more than I knew.</p>\n\n<p>The fact that I have to decide to go into the office to use it, instead of just picking up one of the many mobile devices around the house, makes it a conscious choice. And new habits have started to form around using it.</p>\n",
+				"content_text": "<img src=\"https://furstenberg.co/uploads/2021/bb54a7ffbb.jpg\" alt=\"iMac (24-inch, M1, 2021) in it's packaging\" width=\"450\" height=\"600\" />\n\n\nThis summer I got a [purple M1 iMac](https://www.apple.com/v/imac-24/b/images/overview/color_front_purple__bxvrajaaheeu_large_2x.jpg).\n\nI've now been using this for around a month and I simply **love** this machine. \n\nWe have several M1 machines in the house already, so I knew how good they were. And frankly the internet is filled with people talking about their M1 iMacs. But it seems that I had missed having a \"good\" desktop machine more than I knew.\n\nThe fact that I have to decide to go into the office to use it, instead of just picking up one of the many mobile devices around the house, makes it a conscious choice. And new habits have started to form around using it.\n",
 				"date_published": "2021-08-25T12:57:55+02:00",
 				"url": "https://furstenberg.co/2021/08/25/imac-inch-m.html"
 			},
