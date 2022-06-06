@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://furstenberg.micro.blog/2022/06/06/wwdc-projects.html",
+				"title": "WWDC projects",
+				"content_html": "<p>As <a href=\"https://developer.apple.com/wwdc22/\">WWDC</a> approaches, I’m once again reminded of all the apps I’ve started and abandoned.</p>\n\n<p>It’s so easy to be inspired by something new and click create new project. It’s exciting and you start to think of how you could use this in an app. You create more projects for different apps, and suddenly you’ve stopped working on it.</p>\n\n<p>What will it be this year?</p>\n",
+				"content_text": "As [WWDC](https://developer.apple.com/wwdc22/) approaches, I’m once again reminded of all the apps I’ve started and abandoned. \n\nIt’s so easy to be inspired by something new and click create new project. It’s exciting and you start to think of how you could use this in an app. You create more projects for different apps, and suddenly you’ve stopped working on it. \n\nWhat will it be this year?\n",
+				"date_published": "2022-06-06T09:50:10+02:00",
+				"url": "https://furstenberg.co/2022/06/06/wwdc-projects.html"
+			},
+			{
 				"id": "http://furstenberg.micro.blog/2022/05/22/the-final-day.html",
 				
 				"content_html": "<p>The final day of Premier League was football at its best.</p>\n\n<p>The hope was lit after Villa had two goals and Man City had nil.</p>\n\n<p>Liverpool won their game, but it wasn’t enough.</p>\n\n<p>Still, great season by Liverpool and what a thrill this final game was.</p>\n\n<p>And then we have Saturday… ⚽️</p>\n",
@@ -161,8 +169,8 @@
 			{
 				"id": "http://furstenberg.micro.blog/2022/02/06/when-do-you.html",
 				
-				"content_html": "<p>When do you think I started to notice Covid?</p>\n\n<p><img src=\"https://furstenberg.co/uploads/2022/027bfcb555.jpg\" width=\"369\" height=\"600\" alt=\"Apple Fitness overview for January and February. All rings closed except for a week with no workouts.\" /></p>\n",
-				"content_text": "When do you think I started to notice Covid?\n\n<img src=\"https://furstenberg.co/uploads/2022/027bfcb555.jpg\" width=\"369\" height=\"600\" alt=\"Apple Fitness overview for January and February. All rings closed except for a week with no workouts.\" />\n",
+				"content_html": "<p>When do you think I started to notice Covid?</p>\n\n<p><img src=\"uploads/2022/027bfcb555.jpg\" width=\"369\" height=\"600\" alt=\"Apple Fitness overview for January and February. All rings closed except for a week with no workouts.\" /></p>\n",
+				"content_text": "When do you think I started to notice Covid?\n\n<img src=\"uploads/2022/027bfcb555.jpg\" width=\"369\" height=\"600\" alt=\"Apple Fitness overview for January and February. All rings closed except for a week with no workouts.\" />\n",
 				"date_published": "2022-02-06T21:31:54+02:00",
 				"url": "https://furstenberg.co/2022/02/06/when-do-you.html"
 			},
@@ -441,8 +449,8 @@
 			{
 				"id": "http://furstenberg.micro.blog/2021/08/25/imac-inch-m.html",
 				"title": "iMac (24-inch, M1, 2021) 🖥",
-				"content_html": "<p><img src=\"https://furstenberg.co/uploads/2021/bb54a7ffbb.jpg\" alt=\"iMac (24-inch, M1, 2021) in it's packaging\" width=\"450\" height=\"600\" /></p>\n\n<p>This summer I got a <a href=\"https://www.apple.com/v/imac-24/b/images/overview/color_front_purple__bxvrajaaheeu_large_2x.jpg\">purple M1 iMac</a>.</p>\n\n<p>I&rsquo;ve now been using this for around a month and I simply <strong>love</strong> this machine.</p>\n\n<p>We have several M1 machines in the house already, so I knew how good they were. And frankly the internet is filled with people talking about their M1 iMacs. But it seems that I had missed having a &ldquo;good&rdquo; desktop machine more than I knew.</p>\n\n<p>The fact that I have to decide to go into the office to use it, instead of just picking up one of the many mobile devices around the house, makes it a conscious choice. And new habits have started to form around using it.</p>\n",
-				"content_text": "<img src=\"https://furstenberg.co/uploads/2021/bb54a7ffbb.jpg\" alt=\"iMac (24-inch, M1, 2021) in it's packaging\" width=\"450\" height=\"600\" />\n\n\nThis summer I got a [purple M1 iMac](https://www.apple.com/v/imac-24/b/images/overview/color_front_purple__bxvrajaaheeu_large_2x.jpg).\n\nI've now been using this for around a month and I simply **love** this machine. \n\nWe have several M1 machines in the house already, so I knew how good they were. And frankly the internet is filled with people talking about their M1 iMacs. But it seems that I had missed having a \"good\" desktop machine more than I knew.\n\nThe fact that I have to decide to go into the office to use it, instead of just picking up one of the many mobile devices around the house, makes it a conscious choice. And new habits have started to form around using it.\n",
+				"content_html": "<p><img src=\"uploads/2021/bb54a7ffbb.jpg\" alt=\"iMac (24-inch, M1, 2021) in it's packaging\" width=\"450\" height=\"600\" /></p>\n\n<p>This summer I got a <a href=\"https://www.apple.com/v/imac-24/b/images/overview/color_front_purple__bxvrajaaheeu_large_2x.jpg\">purple M1 iMac</a>.</p>\n\n<p>I&rsquo;ve now been using this for around a month and I simply <strong>love</strong> this machine.</p>\n\n<p>We have several M1 machines in the house already, so I knew how good they were. And frankly the internet is filled with people talking about their M1 iMacs. But it seems that I had missed having a &ldquo;good&rdquo; desktop machine more than I knew.</p>\n\n<p>The fact that I have to decide to go into the office to use it, instead of just picking up one of the many mobile devices around the house, makes it a conscious choice. And new habits have started to form around using it.</p>\n",
+				"content_text": "<img src=\"uploads/2021/bb54a7ffbb.jpg\" alt=\"iMac (24-inch, M1, 2021) in it's packaging\" width=\"450\" height=\"600\" />\n\n\nThis summer I got a [purple M1 iMac](https://www.apple.com/v/imac-24/b/images/overview/color_front_purple__bxvrajaaheeu_large_2x.jpg).\n\nI've now been using this for around a month and I simply **love** this machine. \n\nWe have several M1 machines in the house already, so I knew how good they were. And frankly the internet is filled with people talking about their M1 iMacs. But it seems that I had missed having a \"good\" desktop machine more than I knew.\n\nThe fact that I have to decide to go into the office to use it, instead of just picking up one of the many mobile devices around the house, makes it a conscious choice. And new habits have started to form around using it.\n",
 				"date_published": "2021-08-25T12:57:55+02:00",
 				"url": "https://furstenberg.co/2021/08/25/imac-inch-m.html"
 			},
@@ -497,8 +505,8 @@
 			{
 				"id": "http://furstenberg.micro.blog/2021/08/08/so-i-got.html",
 				
-				"content_html": "<p>So I got this game earlier this week. Apparently if you have a PS5 you need it.  🎮</p>\n\n<p><img src=\"https://furstenberg.co/uploads/2021/201f2e4bbf.jpg\" alt=“Recently played: Demon’s Souls”/></p>\n",
-				"content_text": "So I got this game earlier this week. Apparently if you have a PS5 you need it.  🎮\n\n<img src=\"https://furstenberg.co/uploads/2021/201f2e4bbf.jpg\" alt=“Recently played: Demon’s Souls”/>\n",
+				"content_html": "<p>So I got this game earlier this week. Apparently if you have a PS5 you need it.  🎮</p>\n\n<p><img src=\"uploads/2021/201f2e4bbf.jpg\" alt=“Recently played: Demon’s Souls”/></p>\n",
+				"content_text": "So I got this game earlier this week. Apparently if you have a PS5 you need it.  🎮\n\n<img src=\"uploads/2021/201f2e4bbf.jpg\" alt=“Recently played: Demon’s Souls”/>\n",
 				"date_published": "2021-08-08T08:55:57+02:00",
 				"url": "https://furstenberg.co/2021/08/08/so-i-got.html"
 			},
@@ -545,8 +553,8 @@
 			{
 				"id": "http://furstenberg.micro.blog/2021/07/23/so-this-happened.html",
 				
-				"content_html": "<p>So this happened…</p>\n\n<p>🖥✈️🥳</p>\n\n<p><img src=\"https://furstenberg.co/uploads/2021/546befaa23.jpg\" width=\"563\" height=\"245\" alt=\"Apple iMac 24” delivered in 4 days.\" /></p>\n",
-				"content_text": "So this happened…\n\n🖥✈️🥳\n\n<img src=\"https://furstenberg.co/uploads/2021/546befaa23.jpg\" width=\"563\" height=\"245\" alt=\"Apple iMac 24” delivered in 4 days.\" />\n",
+				"content_html": "<p>So this happened…</p>\n\n<p>🖥✈️🥳</p>\n\n<p><img src=\"uploads/2021/546befaa23.jpg\" width=\"563\" height=\"245\" alt=\"Apple iMac 24” delivered in 4 days.\" /></p>\n",
+				"content_text": "So this happened…\n\n🖥✈️🥳\n\n<img src=\"uploads/2021/546befaa23.jpg\" width=\"563\" height=\"245\" alt=\"Apple iMac 24” delivered in 4 days.\" />\n",
 				"date_published": "2021-07-23T19:12:52+02:00",
 				"url": "https://furstenberg.co/2021/07/23/so-this-happened.html"
 			},
@@ -625,16 +633,16 @@
 			{
 				"id": "http://furstenberg.micro.blog/2021/07/09/new-game-incoming.html",
 				
-				"content_html": "<p>New game incoming! 🎮</p>\n\n<p><img src=\"https://furstenberg.co/uploads/2021/afd1ba1623.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "New game incoming! 🎮\n\n<img src=\"https://furstenberg.co/uploads/2021/afd1ba1623.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>New game incoming! 🎮</p>\n\n<p><img src=\"uploads/2021/afd1ba1623.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "New game incoming! 🎮\n\n<img src=\"uploads/2021/afd1ba1623.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-07-09T22:01:50+02:00",
 				"url": "https://furstenberg.co/2021/07/09/new-game-incoming.html"
 			},
 			{
 				"id": "http://furstenberg.micro.blog/2021/07/09/last-month-i.html",
 				
-				"content_html": "<p>Last month I got a big birthday surprise. It seems my <a href=\"https://furstenberg.co/2021/05/18/ive-been-considering.html\">purple iMac</a> wishes caught the attention of my family.</p>\n\n<p>What a lovely surprise.</p>\n\n<p>The waiting is hard though. 😎</p>\n\n<p><img src=\"https://furstenberg.co/uploads/2021/6b2779e754.png\" width=\"600\" height=\"265\" alt=\"\" /></p>\n",
-				"content_text": "Last month I got a big birthday surprise. It seems my [purple iMac](https://furstenberg.co/2021/05/18/ive-been-considering.html) wishes caught the attention of my family. \n\nWhat a lovely surprise. \n\nThe waiting is hard though. 😎\n\n<img src=\"https://furstenberg.co/uploads/2021/6b2779e754.png\" width=\"600\" height=\"265\" alt=\"\" />\n",
+				"content_html": "<p>Last month I got a big birthday surprise. It seems my <a href=\"https://furstenberg.co/2021/05/18/ive-been-considering.html\">purple iMac</a> wishes caught the attention of my family.</p>\n\n<p>What a lovely surprise.</p>\n\n<p>The waiting is hard though. 😎</p>\n\n<p><img src=\"uploads/2021/6b2779e754.png\" width=\"600\" height=\"265\" alt=\"\" /></p>\n",
+				"content_text": "Last month I got a big birthday surprise. It seems my [purple iMac](https://furstenberg.co/2021/05/18/ive-been-considering.html) wishes caught the attention of my family. \n\nWhat a lovely surprise. \n\nThe waiting is hard though. 😎\n\n<img src=\"uploads/2021/6b2779e754.png\" width=\"600\" height=\"265\" alt=\"\" />\n",
 				"date_published": "2021-07-09T10:39:10+02:00",
 				"url": "https://furstenberg.co/2021/07/09/last-month-i.html"
 			},
@@ -713,16 +721,16 @@
 			{
 				"id": "http://furstenberg.micro.blog/2021/05/25/always-a-delight.html",
 				
-				"content_html": "<p>Always a delight to set up a new Apple TV. 😀</p>\n\n<p><img src=\"https://furstenberg.co/uploads/2021/1ea427dcec.jpg\" width=\"600\" height=\"450\" alt=\"Apple TV 4K (2021) box\" /></p>\n",
-				"content_text": "Always a delight to set up a new Apple TV. 😀\n\n<img src=\"https://furstenberg.co/uploads/2021/1ea427dcec.jpg\" width=\"600\" height=\"450\" alt=\"Apple TV 4K (2021) box\" />\n",
+				"content_html": "<p>Always a delight to set up a new Apple TV. 😀</p>\n\n<p><img src=\"uploads/2021/1ea427dcec.jpg\" width=\"600\" height=\"450\" alt=\"Apple TV 4K (2021) box\" /></p>\n",
+				"content_text": "Always a delight to set up a new Apple TV. 😀\n\n<img src=\"uploads/2021/1ea427dcec.jpg\" width=\"600\" height=\"450\" alt=\"Apple TV 4K (2021) box\" />\n",
 				"date_published": "2021-05-25T19:41:59+02:00",
 				"url": "https://furstenberg.co/2021/05/25/always-a-delight.html"
 			},
 			{
 				"id": "http://furstenberg.micro.blog/2021/05/22/tuesday.html",
 				
-				"content_html": "<p>Tuesday? 😕</p>\n\n<p><img src=\"https://furstenberg.co/uploads/2021/efe3d627a8.png\" width=\"600\" height=\"583\" alt=\"Apple TV 4k 2021 delivered by Tuesday\" /></p>\n",
-				"content_text": "Tuesday? 😕\n\n<img src=\"https://furstenberg.co/uploads/2021/efe3d627a8.png\" width=\"600\" height=\"583\" alt=\"Apple TV 4k 2021 delivered by Tuesday\" />\n",
+				"content_html": "<p>Tuesday? 😕</p>\n\n<p><img src=\"uploads/2021/efe3d627a8.png\" width=\"600\" height=\"583\" alt=\"Apple TV 4k 2021 delivered by Tuesday\" /></p>\n",
+				"content_text": "Tuesday? 😕\n\n<img src=\"uploads/2021/efe3d627a8.png\" width=\"600\" height=\"583\" alt=\"Apple TV 4k 2021 delivered by Tuesday\" />\n",
 				"date_published": "2021-05-22T10:55:32+02:00",
 				"url": "https://furstenberg.co/2021/05/22/tuesday.html"
 			},
@@ -753,8 +761,8 @@
 			{
 				"id": "http://furstenberg.micro.blog/2021/05/18/ive-been-considering.html",
 				
-				"content_html": "<p>I&rsquo;ve been considering the iMac - in purple - but didn&rsquo;t order one. After the <a href=\"https://sixcolors.com/post/2021/05/24-inch-m1-imac-review/\">reviews</a> <a href=\"https://www.youtube.com/watch?v=atcFsp9hGgc\">dropped</a> <a href=\"https://www.youtube.com/watch?v=vSAa_ls9grQ\">today</a> I’m even more sure it will be a purple one.</p>\n\n<p>But it will be hard giving up the 27” size.</p>\n\n<p><img src=\"https://furstenberg.co/uploads/2021/5cb182103b.jpg\" width=\"600\" height=\"337\" alt=\"Purple iMac with purple Magic Keyboard with Touch ID sensor.\" /></p>\n",
-				"content_text": "I've been considering the iMac - in purple - but didn't order one. After the [reviews](https://sixcolors.com/post/2021/05/24-inch-m1-imac-review/) [dropped](https://www.youtube.com/watch?v=atcFsp9hGgc) [today](https://www.youtube.com/watch?v=vSAa_ls9grQ) I’m even more sure it will be a purple one.\n\nBut it will be hard giving up the 27” size.\n\n<img src=\"https://furstenberg.co/uploads/2021/5cb182103b.jpg\" width=\"600\" height=\"337\" alt=\"Purple iMac with purple Magic Keyboard with Touch ID sensor.\" />\n",
+				"content_html": "<p>I&rsquo;ve been considering the iMac - in purple - but didn&rsquo;t order one. After the <a href=\"https://sixcolors.com/post/2021/05/24-inch-m1-imac-review/\">reviews</a> <a href=\"https://www.youtube.com/watch?v=atcFsp9hGgc\">dropped</a> <a href=\"https://www.youtube.com/watch?v=vSAa_ls9grQ\">today</a> I’m even more sure it will be a purple one.</p>\n\n<p>But it will be hard giving up the 27” size.</p>\n\n<p><img src=\"uploads/2021/5cb182103b.jpg\" width=\"600\" height=\"337\" alt=\"Purple iMac with purple Magic Keyboard with Touch ID sensor.\" /></p>\n",
+				"content_text": "I've been considering the iMac - in purple - but didn't order one. After the [reviews](https://sixcolors.com/post/2021/05/24-inch-m1-imac-review/) [dropped](https://www.youtube.com/watch?v=atcFsp9hGgc) [today](https://www.youtube.com/watch?v=vSAa_ls9grQ) I’m even more sure it will be a purple one.\n\nBut it will be hard giving up the 27” size.\n\n<img src=\"uploads/2021/5cb182103b.jpg\" width=\"600\" height=\"337\" alt=\"Purple iMac with purple Magic Keyboard with Touch ID sensor.\" />\n",
 				"date_published": "2021-05-18T19:35:44+02:00",
 				"url": "https://furstenberg.co/2021/05/18/ive-been-considering.html"
 			},
@@ -921,8 +929,8 @@
 			{
 				"id": "http://furstenberg.micro.blog/2021/03/19/talking-about-the.html",
 				
-				"content_html": "<p>Talking about the <a href=\"https://furstenberg.co/2021/03/19/i-really-enjoyed.html\">Apple Watch</a> ⌚️, yesterday I got my first Braided Solo Loop band.</p>\n\n<p><img src=\"https://furstenberg.co/uploads/2021/2c8f2ef01a.jpg\" width=\"252\" height=\"252\" alt=\"Apple Watch with Braided Solo Loop band\" /></p>\n\n<p>The band fits perfectly and is really comfortable. A bit expensive, but so have some of the other bands been.</p>\n\n<p>I&rsquo;m really glad I looked at the sizing guide at <a href=\"https://daringfireball.net/2020/09/more_adventures_in_solo_loop_sizing\">Daring Fireball</a>.</p>\n",
-				"content_text": "Talking about the [Apple Watch](https://furstenberg.co/2021/03/19/i-really-enjoyed.html) ⌚️, yesterday I got my first Braided Solo Loop band. \n\n<img src=\"https://furstenberg.co/uploads/2021/2c8f2ef01a.jpg\" width=\"252\" height=\"252\" alt=\"Apple Watch with Braided Solo Loop band\" />\n\nThe band fits perfectly and is really comfortable. A bit expensive, but so have some of the other bands been.\n\nI'm really glad I looked at the sizing guide at [Daring Fireball](https://daringfireball.net/2020/09/more_adventures_in_solo_loop_sizing).\n",
+				"content_html": "<p>Talking about the <a href=\"https://furstenberg.co/2021/03/19/i-really-enjoyed.html\">Apple Watch</a> ⌚️, yesterday I got my first Braided Solo Loop band.</p>\n\n<p><img src=\"uploads/2021/2c8f2ef01a.jpg\" width=\"252\" height=\"252\" alt=\"Apple Watch with Braided Solo Loop band\" /></p>\n\n<p>The band fits perfectly and is really comfortable. A bit expensive, but so have some of the other bands been.</p>\n\n<p>I&rsquo;m really glad I looked at the sizing guide at <a href=\"https://daringfireball.net/2020/09/more_adventures_in_solo_loop_sizing\">Daring Fireball</a>.</p>\n",
+				"content_text": "Talking about the [Apple Watch](https://furstenberg.co/2021/03/19/i-really-enjoyed.html) ⌚️, yesterday I got my first Braided Solo Loop band. \n\n<img src=\"uploads/2021/2c8f2ef01a.jpg\" width=\"252\" height=\"252\" alt=\"Apple Watch with Braided Solo Loop band\" />\n\nThe band fits perfectly and is really comfortable. A bit expensive, but so have some of the other bands been.\n\nI'm really glad I looked at the sizing guide at [Daring Fireball](https://daringfireball.net/2020/09/more_adventures_in_solo_loop_sizing).\n",
 				"date_published": "2021-03-19T12:23:00+02:00",
 				"url": "https://furstenberg.co/2021/03/19/talking-about-the.html"
 			},
@@ -1345,8 +1353,8 @@
 			{
 				"id": "http://furstenberg.micro.blog/2020/03/26/time-to-try.html",
 				
-				"content_html": "<p>Time to try the Bravely Default demo.</p>\n\n<p><img src=\"https://furstenberg.co/uploads/2020/ce4ad93918.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Time to try the Bravely Default demo.\n\n<img src=\"https://furstenberg.co/uploads/2020/ce4ad93918.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Time to try the Bravely Default demo.</p>\n\n<p><img src=\"uploads/2020/ce4ad93918.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Time to try the Bravely Default demo.\n\n<img src=\"uploads/2020/ce4ad93918.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2020-03-26T19:32:57+02:00",
 				"url": "https://furstenberg.co/2020/03/26/time-to-try.html"
 			},
@@ -1449,8 +1457,8 @@
 			{
 				"id": "http://furstenberg.micro.blog/2020/02/11/swift-playgrounds-for.html",
 				
-				"content_html": "<p><a href=\"https://apps.apple.com/no/app/swift-playgrounds/id1496833156?l=nb&amp;mt=12\">Swift Playgrounds</a> for the Mac.</p>\n\n<p>I did not see that coming. I wasn’t expecting this until WWDC, if at all.</p>\n\n<p><img src=\"https://furstenberg.co/uploads/2020/f5297e1489.jpg\" width=\"300\" height=\"300\" alt=\"\" /></p>\n",
-				"content_text": "[Swift Playgrounds](https://apps.apple.com/no/app/swift-playgrounds/id1496833156?l=nb&mt=12) for the Mac. \n\nI did not see that coming. I wasn’t expecting this until WWDC, if at all. \n\n\n<img src=\"https://furstenberg.co/uploads/2020/f5297e1489.jpg\" width=\"300\" height=\"300\" alt=\"\" />\n",
+				"content_html": "<p><a href=\"https://apps.apple.com/no/app/swift-playgrounds/id1496833156?l=nb&amp;mt=12\">Swift Playgrounds</a> for the Mac.</p>\n\n<p>I did not see that coming. I wasn’t expecting this until WWDC, if at all.</p>\n\n<p><img src=\"uploads/2020/f5297e1489.jpg\" width=\"300\" height=\"300\" alt=\"\" /></p>\n",
+				"content_text": "[Swift Playgrounds](https://apps.apple.com/no/app/swift-playgrounds/id1496833156?l=nb&mt=12) for the Mac. \n\nI did not see that coming. I wasn’t expecting this until WWDC, if at all. \n\n\n<img src=\"uploads/2020/f5297e1489.jpg\" width=\"300\" height=\"300\" alt=\"\" />\n",
 				"date_published": "2020-02-12T00:34:23+02:00",
 				"url": "https://furstenberg.co/2020/02/11/swift-playgrounds-for.html"
 			},
@@ -1497,8 +1505,8 @@
 			{
 				"id": "http://furstenberg.micro.blog/2020/01/30/in-this-hello.html",
 				
-				"content_html": "<p>In this Hello World comparison, I do prefer the syntax of Rust over Go.</p>\n\n<p><img src=\"https://furstenberg.co/uploads/2020/e1ced0bcbc.jpg\" width=\"306\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "In this Hello World comparison, I do prefer the syntax of Rust over Go.\n\n<img src=\"https://furstenberg.co/uploads/2020/e1ced0bcbc.jpg\" width=\"306\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>In this Hello World comparison, I do prefer the syntax of Rust over Go.</p>\n\n<p><img src=\"uploads/2020/e1ced0bcbc.jpg\" width=\"306\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "In this Hello World comparison, I do prefer the syntax of Rust over Go.\n\n<img src=\"uploads/2020/e1ced0bcbc.jpg\" width=\"306\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2020-01-30T20:39:22+02:00",
 				"url": "https://furstenberg.co/2020/01/30/in-this-hello.html"
 			},
@@ -1905,8 +1913,8 @@
 			{
 				"id": "http://furstenberg.micro.blog/2019/10/12/time-for-some.html",
 				
-				"content_html": "<p>Time for some folding! 🎮</p>\n\n<p><img src=\"https://furstenberg.co/uploads/2019/3e6f2f8ce4.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Time for some folding! 🎮\n\n<img src=\"https://furstenberg.co/uploads/2019/3e6f2f8ce4.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Time for some folding! 🎮</p>\n\n<p><img src=\"uploads/2019/3e6f2f8ce4.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Time for some folding! 🎮\n\n<img src=\"uploads/2019/3e6f2f8ce4.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2019-10-12T09:48:58+02:00",
 				"url": "https://furstenberg.co/2019/10/12/time-for-some.html"
 			},
@@ -1929,8 +1937,8 @@
 			{
 				"id": "http://furstenberg.micro.blog/2019/10/08/today-she-is.html",
 				
-				"content_html": "<p>Today she is four years old.</p>\n\n<p>Convinced she can manage do to everything, so sure of herself.</p>\n\n<p>I hope she never loose it. ❤️</p>\n\n<p><img src=\"https://furstenberg.co/uploads/2019/8488b73c4f.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Today she is four years old. \n\nConvinced she can manage do to everything, so sure of herself. \n\nI hope she never loose it. ❤️\n\n<img src=\"https://furstenberg.co/uploads/2019/8488b73c4f.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Today she is four years old.</p>\n\n<p>Convinced she can manage do to everything, so sure of herself.</p>\n\n<p>I hope she never loose it. ❤️</p>\n\n<p><img src=\"uploads/2019/8488b73c4f.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Today she is four years old. \n\nConvinced she can manage do to everything, so sure of herself. \n\nI hope she never loose it. ❤️\n\n<img src=\"uploads/2019/8488b73c4f.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2019-10-08T09:23:17+02:00",
 				"url": "https://furstenberg.co/2019/10/08/today-she-is.html"
 			},
@@ -2225,8 +2233,8 @@
 			{
 				"id": "http://furstenberg.micro.blog/2019/08/15/on-my-way.html",
 				
-				"content_html": "<p>On my way to work.</p>\n\n<p><a href=\"https://furstenberg.co/uploads/2019/a92e3f4db5.jpg\"><img src=\"https://furstenberg.co/uploads/2019/a92e3f4db5.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://furstenberg.co/uploads/2019/66fd0d1a8f.jpg\"><img src=\"https://furstenberg.co/uploads/2019/66fd0d1a8f.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://furstenberg.co/uploads/2019/67af57a623.jpg\"><img src=\"https://furstenberg.co/uploads/2019/67af57a623.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://furstenberg.co/uploads/2019/5f66762cdd.jpg\"><img src=\"https://furstenberg.co/uploads/2019/5f66762cdd.jpg\" width=\"600\" height=\"449\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a></p>\n",
-				"content_text": "On my way to work.\n\n<a href=\"https://furstenberg.co/uploads/2019/a92e3f4db5.jpg\"><img src=\"https://furstenberg.co/uploads/2019/a92e3f4db5.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://furstenberg.co/uploads/2019/66fd0d1a8f.jpg\"><img src=\"https://furstenberg.co/uploads/2019/66fd0d1a8f.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://furstenberg.co/uploads/2019/67af57a623.jpg\"><img src=\"https://furstenberg.co/uploads/2019/67af57a623.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://furstenberg.co/uploads/2019/5f66762cdd.jpg\"><img src=\"https://furstenberg.co/uploads/2019/5f66762cdd.jpg\" width=\"600\" height=\"449\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a>\n\n",
+				"content_html": "<p>On my way to work.</p>\n\n<p><a href=\"https://furstenberg.co/uploads/2019/a92e3f4db5.jpg\"><img src=\"uploads/2019/a92e3f4db5.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://furstenberg.co/uploads/2019/66fd0d1a8f.jpg\"><img src=\"uploads/2019/66fd0d1a8f.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://furstenberg.co/uploads/2019/67af57a623.jpg\"><img src=\"uploads/2019/67af57a623.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://furstenberg.co/uploads/2019/5f66762cdd.jpg\"><img src=\"uploads/2019/5f66762cdd.jpg\" width=\"600\" height=\"449\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "On my way to work.\n\n<a href=\"https://furstenberg.co/uploads/2019/a92e3f4db5.jpg\"><img src=\"uploads/2019/a92e3f4db5.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://furstenberg.co/uploads/2019/66fd0d1a8f.jpg\"><img src=\"uploads/2019/66fd0d1a8f.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://furstenberg.co/uploads/2019/67af57a623.jpg\"><img src=\"uploads/2019/67af57a623.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://furstenberg.co/uploads/2019/5f66762cdd.jpg\"><img src=\"uploads/2019/5f66762cdd.jpg\" width=\"600\" height=\"449\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2019-08-15T19:18:20+02:00",
 				"url": "https://furstenberg.co/2019/08/15/on-my-way.html"
 			},
@@ -2353,8 +2361,8 @@
 			{
 				"id": "http://furstenberg.micro.blog/2019/08/06/good-to-be.html",
 				
-				"content_html": "<p>Good to be home?</p>\n\n<p><img src=\"https://furstenberg.co/uploads/2019/b4bc03a2f6.jpg\" width=\"600\" height=\"600\" alt=\"Sign outside Flesland that reads: Bergen?\" /></p>\n",
-				"content_text": "Good to be home?\n\n<img src=\"https://furstenberg.co/uploads/2019/b4bc03a2f6.jpg\" width=\"600\" height=\"600\" alt=\"Sign outside Flesland that reads: Bergen?\" />\n",
+				"content_html": "<p>Good to be home?</p>\n\n<p><img src=\"uploads/2019/b4bc03a2f6.jpg\" width=\"600\" height=\"600\" alt=\"Sign outside Flesland that reads: Bergen?\" /></p>\n",
+				"content_text": "Good to be home?\n\n<img src=\"uploads/2019/b4bc03a2f6.jpg\" width=\"600\" height=\"600\" alt=\"Sign outside Flesland that reads: Bergen?\" />\n",
 				"date_published": "2019-08-06T22:44:48+02:00",
 				"url": "https://furstenberg.co/2019/08/06/good-to-be.html"
 			},
@@ -2377,8 +2385,8 @@
 			{
 				"id": "http://furstenberg.micro.blog/2019/08/05/our-last-day.html",
 				
-				"content_html": "<p>Our last day on holiday is a hot one.</p>\n\n<p><img src=\"https://furstenberg.co/uploads/2019/c8228a961f.jpg\" width=\"600\" height=\"600\" alt=\"The temperature in Side, Turkey is 32° but feels like 37°\" /></p>\n",
-				"content_text": "Our last day on holiday is a hot one. \n\n<img src=\"https://furstenberg.co/uploads/2019/c8228a961f.jpg\" width=\"600\" height=\"600\" alt=\"The temperature in Side, Turkey is 32° but feels like 37°\" />\n",
+				"content_html": "<p>Our last day on holiday is a hot one.</p>\n\n<p><img src=\"uploads/2019/c8228a961f.jpg\" width=\"600\" height=\"600\" alt=\"The temperature in Side, Turkey is 32° but feels like 37°\" /></p>\n",
+				"content_text": "Our last day on holiday is a hot one. \n\n<img src=\"uploads/2019/c8228a961f.jpg\" width=\"600\" height=\"600\" alt=\"The temperature in Side, Turkey is 32° but feels like 37°\" />\n",
 				"date_published": "2019-08-05T12:30:58+02:00",
 				"url": "https://furstenberg.co/2019/08/05/our-last-day.html"
 			},
@@ -2401,16 +2409,16 @@
 			{
 				"id": "http://furstenberg.micro.blog/2019/08/02/taking-a-rest.html",
 				
-				"content_html": "<p>Taking a break from swimming.</p>\n\n<p><img src=\"https://furstenberg.co/uploads/2019/e257eee875.jpg\" width=\"600\" height=\"600\" alt=\"Young girl in bed playing on Nintendo Switch\" /></p>\n",
-				"content_text": "Taking a break from swimming. \n\n<img src=\"https://furstenberg.co/uploads/2019/e257eee875.jpg\" width=\"600\" height=\"600\" alt=\"Young girl in bed playing on Nintendo Switch\" />\n",
+				"content_html": "<p>Taking a break from swimming.</p>\n\n<p><img src=\"uploads/2019/e257eee875.jpg\" width=\"600\" height=\"600\" alt=\"Young girl in bed playing on Nintendo Switch\" /></p>\n",
+				"content_text": "Taking a break from swimming. \n\n<img src=\"uploads/2019/e257eee875.jpg\" width=\"600\" height=\"600\" alt=\"Young girl in bed playing on Nintendo Switch\" />\n",
 				"date_published": "2019-08-02T12:28:00+02:00",
 				"url": "https://furstenberg.co/2019/08/02/taking-a-rest.html"
 			},
 			{
 				"id": "http://furstenberg.micro.blog/2019/08/01/im-on-holiday.html",
 				
-				"content_html": "<p>I’m on holiday and currently spending the days in and out of pools with my family. As I’ve done so, I’ve worn my Apple Watch. Seems spending a lot of time in a pool closes the rings fast.</p>\n\n<p><img src=\"https://furstenberg.co/uploads/2019/ecaf56b48f.jpg\" width=\"600\" height=\"600\" alt=\"Showing activity rings in Activity++\" /></p>\n",
-				"content_text": "I’m on holiday and currently spending the days in and out of pools with my family. As I’ve done so, I’ve worn my Apple Watch. Seems spending a lot of time in a pool closes the rings fast.\n\n<img src=\"https://furstenberg.co/uploads/2019/ecaf56b48f.jpg\" width=\"600\" height=\"600\" alt=\"Showing activity rings in Activity++\" />\n",
+				"content_html": "<p>I’m on holiday and currently spending the days in and out of pools with my family. As I’ve done so, I’ve worn my Apple Watch. Seems spending a lot of time in a pool closes the rings fast.</p>\n\n<p><img src=\"uploads/2019/ecaf56b48f.jpg\" width=\"600\" height=\"600\" alt=\"Showing activity rings in Activity++\" /></p>\n",
+				"content_text": "I’m on holiday and currently spending the days in and out of pools with my family. As I’ve done so, I’ve worn my Apple Watch. Seems spending a lot of time in a pool closes the rings fast.\n\n<img src=\"uploads/2019/ecaf56b48f.jpg\" width=\"600\" height=\"600\" alt=\"Showing activity rings in Activity++\" />\n",
 				"date_published": "2019-08-01T21:19:48+02:00",
 				"url": "https://furstenberg.co/2019/08/01/im-on-holiday.html"
 			},
@@ -2433,8 +2441,8 @@
 			{
 				"id": "http://furstenberg.micro.blog/2019/07/31/ruins-of-an.html",
 				
-				"content_html": "<p>Ruins of an old temple. In Side, Turkey.</p>\n\n<p><img src=\"https://furstenberg.co/uploads/2019/a51253f149.jpg\" width=\"600\" height=\"600\" alt=\"Old columns from a temple in Side, Tyrkey\" /></p>\n",
-				"content_text": "Ruins of an old temple. In Side, Turkey.\n\n<img src=\"https://furstenberg.co/uploads/2019/a51253f149.jpg\" width=\"600\" height=\"600\" alt=\"Old columns from a temple in Side, Tyrkey\" />\n",
+				"content_html": "<p>Ruins of an old temple. In Side, Turkey.</p>\n\n<p><img src=\"uploads/2019/a51253f149.jpg\" width=\"600\" height=\"600\" alt=\"Old columns from a temple in Side, Tyrkey\" /></p>\n",
+				"content_text": "Ruins of an old temple. In Side, Turkey.\n\n<img src=\"uploads/2019/a51253f149.jpg\" width=\"600\" height=\"600\" alt=\"Old columns from a temple in Side, Tyrkey\" />\n",
 				"date_published": "2019-07-31T13:51:04+02:00",
 				"url": "https://furstenberg.co/2019/07/31/ruins-of-an.html"
 			},
@@ -2457,40 +2465,40 @@
 			{
 				"id": "http://furstenberg.micro.blog/2019/07/28/thats-a-big.html",
 				
-				"content_html": "<p>That’s a big ocean.</p>\n\n<p><img src=\"https://furstenberg.co/uploads/2019/25c1c58c05.jpg\" width=\"600\" height=\"600\" alt=\"Girl facing the ocean\" /></p>\n",
-				"content_text": "That’s a big ocean.\n\n<img src=\"https://furstenberg.co/uploads/2019/25c1c58c05.jpg\" width=\"600\" height=\"600\" alt=\"Girl facing the ocean\" />\n",
+				"content_html": "<p>That’s a big ocean.</p>\n\n<p><img src=\"uploads/2019/25c1c58c05.jpg\" width=\"600\" height=\"600\" alt=\"Girl facing the ocean\" /></p>\n",
+				"content_text": "That’s a big ocean.\n\n<img src=\"uploads/2019/25c1c58c05.jpg\" width=\"600\" height=\"600\" alt=\"Girl facing the ocean\" />\n",
 				"date_published": "2019-07-28T14:58:39+02:00",
 				"url": "https://furstenberg.co/2019/07/28/thats-a-big.html"
 			},
 			{
 				"id": "http://furstenberg.micro.blog/2019/07/27/abandoned.html",
 				
-				"content_html": "<p>Abandoned</p>\n\n<p><img src=\"https://furstenberg.co/uploads/2019/fbce142f43.jpg\" width=\"600\" height=\"600\" alt=\"Abandoned building\" /></p>\n",
-				"content_text": "Abandoned\n\n<img src=\"https://furstenberg.co/uploads/2019/fbce142f43.jpg\" width=\"600\" height=\"600\" alt=\"Abandoned building\" />\n",
+				"content_html": "<p>Abandoned</p>\n\n<p><img src=\"uploads/2019/fbce142f43.jpg\" width=\"600\" height=\"600\" alt=\"Abandoned building\" /></p>\n",
+				"content_text": "Abandoned\n\n<img src=\"uploads/2019/fbce142f43.jpg\" width=\"600\" height=\"600\" alt=\"Abandoned building\" />\n",
 				"date_published": "2019-07-27T20:16:54+02:00",
 				"url": "https://furstenberg.co/2019/07/27/abandoned.html"
 			},
 			{
 				"id": "http://furstenberg.micro.blog/2019/07/27/im-currently-on.html",
 				
-				"content_html": "<p>I’m currently on vacation in Turkey. Before I left I looked for a currency converter. I chose <a href=\"https://apps.apple.com/no/app/elk-travel-currency-converter/id1189748820?l=nb\">Elk Travel Currency Converter</a> from Clean Shaven Apps.</p>\n\n<p>After several days use I can say it’s great. I particularly like the Apple Watch app. So useful. A must have for travels.</p>\n\n<p><img src=\"https://furstenberg.co/uploads/2019/3277b4eb72.jpg\" width=\"300\" height=\"300\" alt=\"\" /></p>\n",
-				"content_text": "I’m currently on vacation in Turkey. Before I left I looked for a currency converter. I chose [Elk Travel Currency Converter](https://apps.apple.com/no/app/elk-travel-currency-converter/id1189748820?l=nb) from Clean Shaven Apps. \n\nAfter several days use I can say it’s great. I particularly like the Apple Watch app. So useful. A must have for travels.\n\n<img src=\"https://furstenberg.co/uploads/2019/3277b4eb72.jpg\" width=\"300\" height=\"300\" alt=\"\" />\n",
+				"content_html": "<p>I’m currently on vacation in Turkey. Before I left I looked for a currency converter. I chose <a href=\"https://apps.apple.com/no/app/elk-travel-currency-converter/id1189748820?l=nb\">Elk Travel Currency Converter</a> from Clean Shaven Apps.</p>\n\n<p>After several days use I can say it’s great. I particularly like the Apple Watch app. So useful. A must have for travels.</p>\n\n<p><img src=\"uploads/2019/3277b4eb72.jpg\" width=\"300\" height=\"300\" alt=\"\" /></p>\n",
+				"content_text": "I’m currently on vacation in Turkey. Before I left I looked for a currency converter. I chose [Elk Travel Currency Converter](https://apps.apple.com/no/app/elk-travel-currency-converter/id1189748820?l=nb) from Clean Shaven Apps. \n\nAfter several days use I can say it’s great. I particularly like the Apple Watch app. So useful. A must have for travels.\n\n<img src=\"uploads/2019/3277b4eb72.jpg\" width=\"300\" height=\"300\" alt=\"\" />\n",
 				"date_published": "2019-07-27T14:11:55+02:00",
 				"url": "https://furstenberg.co/2019/07/27/im-currently-on.html"
 			},
 			{
 				"id": "http://furstenberg.micro.blog/2019/07/26/empty-airport-hall.html",
 				
-				"content_html": "<p>Empty airport hall</p>\n\n<p><img src=\"https://furstenberg.co/uploads/2019/de168f06f5.jpg\" width=\"600\" height=\"600\" alt=\"Empty hall in Bergen Airport, Flesland\" /></p>\n",
-				"content_text": "Empty airport hall\n\n<img src=\"https://furstenberg.co/uploads/2019/de168f06f5.jpg\" width=\"600\" height=\"600\" alt=\"Empty hall in Bergen Airport, Flesland\" />\n",
+				"content_html": "<p>Empty airport hall</p>\n\n<p><img src=\"uploads/2019/de168f06f5.jpg\" width=\"600\" height=\"600\" alt=\"Empty hall in Bergen Airport, Flesland\" /></p>\n",
+				"content_text": "Empty airport hall\n\n<img src=\"uploads/2019/de168f06f5.jpg\" width=\"600\" height=\"600\" alt=\"Empty hall in Bergen Airport, Flesland\" />\n",
 				"date_published": "2019-07-26T21:46:09+02:00",
 				"url": "https://furstenberg.co/2019/07/26/empty-airport-hall.html"
 			},
 			{
 				"id": "http://furstenberg.micro.blog/2019/07/23/early-at-the.html",
 				
-				"content_html": "<p>Early at the airport.</p>\n\n<p><img src=\"https://furstenberg.co/uploads/2019/28caf30291.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Early at the airport.\n\n<img src=\"https://furstenberg.co/uploads/2019/28caf30291.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Early at the airport.</p>\n\n<p><img src=\"uploads/2019/28caf30291.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Early at the airport.\n\n<img src=\"uploads/2019/28caf30291.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2019-07-23T06:19:37+02:00",
 				"url": "https://furstenberg.co/2019/07/23/early-at-the.html"
 			},
@@ -2553,8 +2561,8 @@
 			{
 				"id": "http://furstenberg.micro.blog/2019/07/15/new-life.html",
 				"title": "New life",
-				"content_html": "<p>I found an old unused iPad Mini the other day. I believe it’s the only non-retina device in the house.</p>\n\n<p>Still, I immediately had the idea of making it into a “read-only device”, despite the screen.</p>\n\n<p>So it’s now got Instapaper, Comixology and Marvel Unlimited installed. And along with iBooks that’s all the apps I plan to use on this device.</p>\n\n<p>So far I’m really pleased with this setup. My own little device dedicated to reading.</p>\n\n<p><img src=\"https://furstenberg.co/uploads/2019/b5c1fc2d60.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "I found an old unused iPad Mini the other day. I believe it’s the only non-retina device in the house.\n\nStill, I immediately had the idea of making it into a “read-only device”, despite the screen.\n\nSo it’s now got Instapaper, Comixology and Marvel Unlimited installed. And along with iBooks that’s all the apps I plan to use on this device.\n\nSo far I’m really pleased with this setup. My own little device dedicated to reading.\n\n<img src=\"https://furstenberg.co/uploads/2019/b5c1fc2d60.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>I found an old unused iPad Mini the other day. I believe it’s the only non-retina device in the house.</p>\n\n<p>Still, I immediately had the idea of making it into a “read-only device”, despite the screen.</p>\n\n<p>So it’s now got Instapaper, Comixology and Marvel Unlimited installed. And along with iBooks that’s all the apps I plan to use on this device.</p>\n\n<p>So far I’m really pleased with this setup. My own little device dedicated to reading.</p>\n\n<p><img src=\"uploads/2019/b5c1fc2d60.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "I found an old unused iPad Mini the other day. I believe it’s the only non-retina device in the house.\n\nStill, I immediately had the idea of making it into a “read-only device”, despite the screen.\n\nSo it’s now got Instapaper, Comixology and Marvel Unlimited installed. And along with iBooks that’s all the apps I plan to use on this device.\n\nSo far I’m really pleased with this setup. My own little device dedicated to reading.\n\n<img src=\"uploads/2019/b5c1fc2d60.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2019-07-15T09:04:41+02:00",
 				"url": "https://furstenberg.co/2019/07/15/new-life.html"
 			},
@@ -2569,8 +2577,8 @@
 			{
 				"id": "http://furstenberg.micro.blog/2019/07/13/123333.html",
 				
-				"content_html": "<p><img src=\"https://furstenberg.co/uploads/2019/112f134d34.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "\n\n<img src=\"https://furstenberg.co/uploads/2019/112f134d34.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p><img src=\"uploads/2019/112f134d34.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "\n\n<img src=\"uploads/2019/112f134d34.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2019-07-13T12:33:33+02:00",
 				"url": "https://furstenberg.co/2019/07/13/123333.html"
 			},
@@ -2665,8 +2673,8 @@
 			{
 				"id": "http://furstenberg.micro.blog/2019/07/03/i-finally-received.html",
 				
-				"content_html": "<p>I finally received <a href=\"http://www.skull-and-roses.com\">Skull</a> in the mail today.</p>\n\n<p>Can’t wait to play this with my family.</p>\n\n<p><img src=\"https://furstenberg.co/uploads/2019/2b977a027a.jpg\" width=\"600\" height=\"600\" alt=\"The unopened box of the game Skull\" /></p>\n",
-				"content_text": "I finally received [Skull](http://www.skull-and-roses.com) in the mail today. \n\nCan’t wait to play this with my family.\n\n<img src=\"https://furstenberg.co/uploads/2019/2b977a027a.jpg\" width=\"600\" height=\"600\" alt=\"The unopened box of the game Skull\" />\n",
+				"content_html": "<p>I finally received <a href=\"http://www.skull-and-roses.com\">Skull</a> in the mail today.</p>\n\n<p>Can’t wait to play this with my family.</p>\n\n<p><img src=\"uploads/2019/2b977a027a.jpg\" width=\"600\" height=\"600\" alt=\"The unopened box of the game Skull\" /></p>\n",
+				"content_text": "I finally received [Skull](http://www.skull-and-roses.com) in the mail today. \n\nCan’t wait to play this with my family.\n\n<img src=\"uploads/2019/2b977a027a.jpg\" width=\"600\" height=\"600\" alt=\"The unopened box of the game Skull\" />\n",
 				"date_published": "2019-07-03T15:23:16+02:00",
 				"url": "https://furstenberg.co/2019/07/03/i-finally-received.html"
 			},
@@ -2713,8 +2721,8 @@
 			{
 				"id": "http://furstenberg.micro.blog/2019/06/29/love-the-gift.html",
 				
-				"content_html": "<p>Love the gift from the kids today. The 2019 Sport Loop Pride band.</p>\n\n<p>Remember, Love is Love!</p>\n\n<p><img src=\"https://furstenberg.co/uploads/2019/cfe1746e7b.jpg\" width=\"600\" height=\"600\" alt=\"Apple Watch Series 4 with the 2019 Sport Loop Pride band\" /></p>\n",
-				"content_text": "Love the gift from the kids today. The 2019 Sport Loop Pride band. \n\nRemember, Love is Love!\n\n<img src=\"https://furstenberg.co/uploads/2019/cfe1746e7b.jpg\" width=\"600\" height=\"600\" alt=\"Apple Watch Series 4 with the 2019 Sport Loop Pride band\" />\n",
+				"content_html": "<p>Love the gift from the kids today. The 2019 Sport Loop Pride band.</p>\n\n<p>Remember, Love is Love!</p>\n\n<p><img src=\"uploads/2019/cfe1746e7b.jpg\" width=\"600\" height=\"600\" alt=\"Apple Watch Series 4 with the 2019 Sport Loop Pride band\" /></p>\n",
+				"content_text": "Love the gift from the kids today. The 2019 Sport Loop Pride band. \n\nRemember, Love is Love!\n\n<img src=\"uploads/2019/cfe1746e7b.jpg\" width=\"600\" height=\"600\" alt=\"Apple Watch Series 4 with the 2019 Sport Loop Pride band\" />\n",
 				"date_published": "2019-06-29T10:27:00+02:00",
 				"url": "https://furstenberg.co/2019/06/29/love-the-gift.html"
 			},
@@ -3033,8 +3041,8 @@
 			{
 				"id": "http://furstenberg.micro.blog/2019/04/15/so-today-i.html",
 				
-				"content_html": "<p>So today I woke up at the hospital. I was rushed in last night after chest pains.</p>\n\n<p>I feel fine now, but this was <em>not</em> the day I planned.</p>\n\n<p><img src=\"https://furstenberg.co/uploads/2019/acafa74055.jpg\" width=\"600\" height=\"600\" alt=\"View out the window towards Fløyen from my hospital bed\" /></p>\n",
-				"content_text": "So today I woke up at the hospital. I was rushed in last night after chest pains. \n\nI feel fine now, but this was _not_ the day I planned.\n\n<img src=\"https://furstenberg.co/uploads/2019/acafa74055.jpg\" width=\"600\" height=\"600\" alt=\"View out the window towards Fløyen from my hospital bed\" />\n",
+				"content_html": "<p>So today I woke up at the hospital. I was rushed in last night after chest pains.</p>\n\n<p>I feel fine now, but this was <em>not</em> the day I planned.</p>\n\n<p><img src=\"uploads/2019/acafa74055.jpg\" width=\"600\" height=\"600\" alt=\"View out the window towards Fløyen from my hospital bed\" /></p>\n",
+				"content_text": "So today I woke up at the hospital. I was rushed in last night after chest pains. \n\nI feel fine now, but this was _not_ the day I planned.\n\n<img src=\"uploads/2019/acafa74055.jpg\" width=\"600\" height=\"600\" alt=\"View out the window towards Fløyen from my hospital bed\" />\n",
 				"date_published": "2019-04-15T09:34:00+02:00",
 				"url": "https://furstenberg.co/2019/04/15/so-today-i.html"
 			},
@@ -3081,24 +3089,24 @@
 			{
 				"id": "http://furstenberg.micro.blog/2019/04/12/time-for-super.html",
 				
-				"content_html": "<p>Time for Super Mario Bros.: The Lost Levels</p>\n\n<p><a href=\"https://furstenberg.co/uploads/2019/4d97a56ebe.jpg\"><img src=\"https://furstenberg.co/uploads/2019/4d97a56ebe.jpg\" width=\"450\" height=\"600\" alt=\"NES Games Library on Nintendo Switch\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
-				"content_text": "Time for Super Mario Bros.: The Lost Levels\n\n<a href=\"https://furstenberg.co/uploads/2019/4d97a56ebe.jpg\"><img src=\"https://furstenberg.co/uploads/2019/4d97a56ebe.jpg\" width=\"450\" height=\"600\" alt=\"NES Games Library on Nintendo Switch\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"content_html": "<p>Time for Super Mario Bros.: The Lost Levels</p>\n\n<p><a href=\"https://furstenberg.co/uploads/2019/4d97a56ebe.jpg\"><img src=\"uploads/2019/4d97a56ebe.jpg\" width=\"450\" height=\"600\" alt=\"NES Games Library on Nintendo Switch\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "Time for Super Mario Bros.: The Lost Levels\n\n<a href=\"https://furstenberg.co/uploads/2019/4d97a56ebe.jpg\"><img src=\"uploads/2019/4d97a56ebe.jpg\" width=\"450\" height=\"600\" alt=\"NES Games Library on Nintendo Switch\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2019-04-12T20:16:35+02:00",
 				"url": "https://furstenberg.co/2019/04/12/time-for-super.html"
 			},
 			{
 				"id": "http://furstenberg.micro.blog/2019/04/11/storm.html",
 				
-				"content_html": "<p>Storm</p>\n\n<p><a href=\"https://furstenberg.co/uploads/2019/847a941c16.jpg\"><img src=\"https://furstenberg.co/uploads/2019/847a941c16.jpg\" width=\"600\" height=\"450\" alt=\"The marine vessel Storm at Bergen harbour\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
-				"content_text": "Storm\n\n<a href=\"https://furstenberg.co/uploads/2019/847a941c16.jpg\"><img src=\"https://furstenberg.co/uploads/2019/847a941c16.jpg\" width=\"600\" height=\"450\" alt=\"The marine vessel Storm at Bergen harbour\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"content_html": "<p>Storm</p>\n\n<p><a href=\"https://furstenberg.co/uploads/2019/847a941c16.jpg\"><img src=\"uploads/2019/847a941c16.jpg\" width=\"600\" height=\"450\" alt=\"The marine vessel Storm at Bergen harbour\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "Storm\n\n<a href=\"https://furstenberg.co/uploads/2019/847a941c16.jpg\"><img src=\"uploads/2019/847a941c16.jpg\" width=\"600\" height=\"450\" alt=\"The marine vessel Storm at Bergen harbour\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2019-04-11T18:08:33+02:00",
 				"url": "https://furstenberg.co/2019/04/11/storm.html"
 			},
 			{
 				"id": "http://furstenberg.micro.blog/2019/04/10/watching-user-research.html",
 				
-				"content_html": "<p>Watching user research and usability testing</p>\n\n<p><a href=\"https://furstenberg.co/uploads/2019/236361fbb5.jpg\"><img src=\"https://furstenberg.co/uploads/2019/236361fbb5.jpg\" width=\"449\" height=\"600\" alt=\"Blurred image on monitor\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
-				"content_text": "Watching user research and usability testing\n\n<a href=\"https://furstenberg.co/uploads/2019/236361fbb5.jpg\"><img src=\"https://furstenberg.co/uploads/2019/236361fbb5.jpg\" width=\"449\" height=\"600\" alt=\"Blurred image on monitor\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"content_html": "<p>Watching user research and usability testing</p>\n\n<p><a href=\"https://furstenberg.co/uploads/2019/236361fbb5.jpg\"><img src=\"uploads/2019/236361fbb5.jpg\" width=\"449\" height=\"600\" alt=\"Blurred image on monitor\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "Watching user research and usability testing\n\n<a href=\"https://furstenberg.co/uploads/2019/236361fbb5.jpg\"><img src=\"uploads/2019/236361fbb5.jpg\" width=\"449\" height=\"600\" alt=\"Blurred image on monitor\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2019-04-10T23:02:44+02:00",
 				"url": "https://furstenberg.co/2019/04/10/watching-user-research.html"
 			},
@@ -3113,32 +3121,32 @@
 			{
 				"id": "http://furstenberg.micro.blog/2019/04/09/how-the-blackboard.html",
 				
-				"content_html": "<p>How the blackboard has changed</p>\n\n<p><a href=\"https://furstenberg.co/uploads/2019/2a51250976.jpg\"><img src=\"https://furstenberg.co/uploads/2019/2a51250976.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
-				"content_text": "How the blackboard has changed\n\n<a href=\"https://furstenberg.co/uploads/2019/2a51250976.jpg\"><img src=\"https://furstenberg.co/uploads/2019/2a51250976.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"content_html": "<p>How the blackboard has changed</p>\n\n<p><a href=\"https://furstenberg.co/uploads/2019/2a51250976.jpg\"><img src=\"uploads/2019/2a51250976.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "How the blackboard has changed\n\n<a href=\"https://furstenberg.co/uploads/2019/2a51250976.jpg\"><img src=\"uploads/2019/2a51250976.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2019-04-09T22:02:42+02:00",
 				"url": "https://furstenberg.co/2019/04/09/how-the-blackboard.html"
 			},
 			{
 				"id": "http://furstenberg.micro.blog/2019/04/08/time-to-get.html",
 				
-				"content_html": "<p>Time to get home</p>\n\n<p><a href=\"https://furstenberg.co/uploads/2019/4295be8154.jpg\"><img src=\"https://furstenberg.co/uploads/2019/4295be8154.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
-				"content_text": "Time to get home\n\n<a href=\"https://furstenberg.co/uploads/2019/4295be8154.jpg\"><img src=\"https://furstenberg.co/uploads/2019/4295be8154.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"content_html": "<p>Time to get home</p>\n\n<p><a href=\"https://furstenberg.co/uploads/2019/4295be8154.jpg\"><img src=\"uploads/2019/4295be8154.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "Time to get home\n\n<a href=\"https://furstenberg.co/uploads/2019/4295be8154.jpg\"><img src=\"uploads/2019/4295be8154.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2019-04-08T19:05:54+02:00",
 				"url": "https://furstenberg.co/2019/04/08/time-to-get.html"
 			},
 			{
 				"id": "http://furstenberg.micro.blog/2019/04/07/tired-panda.html",
 				
-				"content_html": "<p>Tired Panda</p>\n\n<p><a href=\"https://furstenberg.co/uploads/2019/eb9bc5ecd2.jpg\"><img src=\"https://furstenberg.co/uploads/2019/eb9bc5ecd2.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
-				"content_text": "Tired Panda\n\n<a href=\"https://furstenberg.co/uploads/2019/eb9bc5ecd2.jpg\"><img src=\"https://furstenberg.co/uploads/2019/eb9bc5ecd2.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"content_html": "<p>Tired Panda</p>\n\n<p><a href=\"https://furstenberg.co/uploads/2019/eb9bc5ecd2.jpg\"><img src=\"uploads/2019/eb9bc5ecd2.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "Tired Panda\n\n<a href=\"https://furstenberg.co/uploads/2019/eb9bc5ecd2.jpg\"><img src=\"uploads/2019/eb9bc5ecd2.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2019-04-07T18:19:16+02:00",
 				"url": "https://furstenberg.co/2019/04/07/tired-panda.html"
 			},
 			{
 				"id": "http://furstenberg.micro.blog/2019/04/06/spring-is-here.html",
 				
-				"content_html": "<p>Spring is here</p>\n\n<p><a href=\"https://furstenberg.co/uploads/2019/b202493124.jpg\"><img src=\"https://furstenberg.co/uploads/2019/b202493124.jpg\" width=\"449\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
-				"content_text": "Spring is here\n\n<a href=\"https://furstenberg.co/uploads/2019/b202493124.jpg\"><img src=\"https://furstenberg.co/uploads/2019/b202493124.jpg\" width=\"449\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"content_html": "<p>Spring is here</p>\n\n<p><a href=\"https://furstenberg.co/uploads/2019/b202493124.jpg\"><img src=\"uploads/2019/b202493124.jpg\" width=\"449\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "Spring is here\n\n<a href=\"https://furstenberg.co/uploads/2019/b202493124.jpg\"><img src=\"uploads/2019/b202493124.jpg\" width=\"449\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2019-04-06T14:16:15+02:00",
 				"url": "https://furstenberg.co/2019/04/06/spring-is-here.html"
 			},
@@ -3201,8 +3209,8 @@
 			{
 				"id": "http://furstenberg.micro.blog/2019/03/09/i-got-this.html",
 				
-				"content_html": "<p>I got this 15 years ago. A great machine with great games.</p>\n\n<p>I still enjoy playing on this from time to time. But recently it’s been my kids who use it the most. And I find that even more enjoyable. 🕹</p>\n\n<p><img src=\"https://furstenberg.co/uploads/2019/44b30f0e5f.jpg\" width=\"450\" height=\"600\" alt=\"Nintendo Gameboy Advance SP. Mario Kart Super Circuit on screen.\" /></p>\n",
-				"content_text": "I got this 15 years ago. A great machine with great games. \n\nI still enjoy playing on this from time to time. But recently it’s been my kids who use it the most. And I find that even more enjoyable. 🕹\n\n<img src=\"https://furstenberg.co/uploads/2019/44b30f0e5f.jpg\" width=\"450\" height=\"600\" alt=\"Nintendo Gameboy Advance SP. Mario Kart Super Circuit on screen.\" />\n",
+				"content_html": "<p>I got this 15 years ago. A great machine with great games.</p>\n\n<p>I still enjoy playing on this from time to time. But recently it’s been my kids who use it the most. And I find that even more enjoyable. 🕹</p>\n\n<p><img src=\"uploads/2019/44b30f0e5f.jpg\" width=\"450\" height=\"600\" alt=\"Nintendo Gameboy Advance SP. Mario Kart Super Circuit on screen.\" /></p>\n",
+				"content_text": "I got this 15 years ago. A great machine with great games. \n\nI still enjoy playing on this from time to time. But recently it’s been my kids who use it the most. And I find that even more enjoyable. 🕹\n\n<img src=\"uploads/2019/44b30f0e5f.jpg\" width=\"450\" height=\"600\" alt=\"Nintendo Gameboy Advance SP. Mario Kart Super Circuit on screen.\" />\n",
 				"date_published": "2019-03-09T13:27:44+02:00",
 				"url": "https://furstenberg.co/2019/03/09/i-got-this.html"
 			},
@@ -3313,24 +3321,24 @@
 			{
 				"id": "http://furstenberg.micro.blog/2018/12/06/quiet-before-the.html",
 				
-				"content_html": "<p>Quiet before the show starts.</p>\n\n<p><img src=\"https://furstenberg.co/uploads/2018/480f690839.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Quiet before the show starts.\n\n<img src=\"https://furstenberg.co/uploads/2018/480f690839.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Quiet before the show starts.</p>\n\n<p><img src=\"uploads/2018/480f690839.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Quiet before the show starts.\n\n<img src=\"uploads/2018/480f690839.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2018-12-06T18:52:02+02:00",
 				"url": "https://furstenberg.co/2018/12/06/quiet-before-the.html"
 			},
 			{
 				"id": "http://furstenberg.micro.blog/2018/12/04/torgallmenningen-bergen.html",
 				
-				"content_html": "<p>Torgallmenningen, Bergen.</p>\n\n<p><img src=\"https://furstenberg.co/uploads/2018/91f17a0c14.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Torgallmenningen, Bergen.\n\n<img src=\"https://furstenberg.co/uploads/2018/91f17a0c14.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Torgallmenningen, Bergen.</p>\n\n<p><img src=\"uploads/2018/91f17a0c14.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Torgallmenningen, Bergen.\n\n<img src=\"uploads/2018/91f17a0c14.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2018-12-04T21:20:53+02:00",
 				"url": "https://furstenberg.co/2018/12/04/torgallmenningen-bergen.html"
 			},
 			{
 				"id": "http://furstenberg.micro.blog/2018/12/04/downtown-bergen.html",
 				
-				"content_html": "<p>Downtown Bergen.</p>\n\n<p><img src=\"https://furstenberg.co/uploads/2018/f6b584e05d.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Downtown Bergen.\n\n<img src=\"https://furstenberg.co/uploads/2018/f6b584e05d.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Downtown Bergen.</p>\n\n<p><img src=\"uploads/2018/f6b584e05d.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Downtown Bergen.\n\n<img src=\"uploads/2018/f6b584e05d.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2018-12-04T19:22:35+02:00",
 				"url": "https://furstenberg.co/2018/12/04/downtown-bergen.html"
 			},
@@ -3353,8 +3361,8 @@
 			{
 				"id": "http://furstenberg.micro.blog/2018/11/19/ten-years.html",
 				"title": "Ten Years",
-				"content_html": "<p>Ten years ago today I became a dad. Nothing could have prepared me for all the work, laughter, tears and love that would be before me.</p>\n\n<p>Today I’m the lucky father of three fantastic kids. But the feeling of holding Emma in my arms for the first time is fresh in my memory like it was yesterday.</p>\n\n<p><img src=\"https://furstenberg.co/uploads/2018/4ba507c5d9.jpg\" width=\"600\" height=\"600\" /></p>\n",
-				"content_text": "Ten years ago today I became a dad. Nothing could have prepared me for all the work, laughter, tears and love that would be before me. \n\nToday I’m the lucky father of three fantastic kids. But the feeling of holding Emma in my arms for the first time is fresh in my memory like it was yesterday.\n\n<img src=\"https://furstenberg.co/uploads/2018/4ba507c5d9.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_html": "<p>Ten years ago today I became a dad. Nothing could have prepared me for all the work, laughter, tears and love that would be before me.</p>\n\n<p>Today I’m the lucky father of three fantastic kids. But the feeling of holding Emma in my arms for the first time is fresh in my memory like it was yesterday.</p>\n\n<p><img src=\"uploads/2018/4ba507c5d9.jpg\" width=\"600\" height=\"600\" /></p>\n",
+				"content_text": "Ten years ago today I became a dad. Nothing could have prepared me for all the work, laughter, tears and love that would be before me. \n\nToday I’m the lucky father of three fantastic kids. But the feeling of holding Emma in my arms for the first time is fresh in my memory like it was yesterday.\n\n<img src=\"uploads/2018/4ba507c5d9.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2018-11-19T19:43:12+02:00",
 				"url": "https://furstenberg.co/2018/11/19/ten-years.html"
 			},
