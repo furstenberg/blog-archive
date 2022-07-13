@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://furstenberg.micro.blog/2022/07/13/finished-reading-the.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781880418628\">The Dark Tower VII</a> by Stephen King 📚</p>\n",
+				"content_text": "Finished reading: [The Dark Tower VII](https://micro.blog/books/9781880418628) by Stephen King 📚\n",
+				"date_published": "2022-07-13T19:41:19+02:00",
+				"url": "https://furstenberg.co/2022/07/13/finished-reading-the.html"
+			},
+			{
 				"id": "http://furstenberg.micro.blog/2022/06/06/wwdc-projects.html",
 				"title": "WWDC projects",
 				"content_html": "<p>As <a href=\"https://developer.apple.com/wwdc22/\">WWDC</a> approaches, I’m once again reminded of all the apps I’ve started and abandoned.</p>\n\n<p>It’s so easy to be inspired by something new and click create new project. It’s exciting and you start to think of how you could use this in an app. You create more projects for different apps, and suddenly you’ve stopped working on it.</p>\n\n<p>What will it be this year?</p>\n",
