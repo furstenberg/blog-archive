@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://furstenberg.micro.blog/2022/11/10/finished-reading-elder.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781250768711\">Elder Race</a> by Adrian Tchaikovsky 📚</p>\n",
+				"content_text": "Finished reading: [Elder Race](https://micro.blog/books/9781250768711) by Adrian Tchaikovsky 📚\n",
+				"date_published": "2022-11-10T22:54:10+01:00",
+				"url": "https://furstenberg.co/2022/11/10/finished-reading-elder.html"
+			},
+			{
+				"id": "http://furstenberg.micro.blog/2022/11/06/i-played-the.html",
+				
+				"content_html": "<p>I played the <a href=\"https://en.wikipedia.org/wiki/Shadow_of_the_Colossus_(2018_video_game)\">Shadow of the Colossus remake</a> today.</p>\n\n<p>I have previously completed the PS2 and PS3 versions of the game.</p>\n\n<p>Could the remake deliver?</p>\n\n<p>Hell yes! One of the best games ever got better! 🎮</p>\n",
+				"content_text": "I played the [Shadow of the Colossus remake](https://en.wikipedia.org/wiki/Shadow_of_the_Colossus_(2018_video_game)) today. \n\nI have previously completed the PS2 and PS3 versions of the game.\n\nCould the remake deliver?\n\nHell yes! One of the best games ever got better! 🎮\n",
+				"date_published": "2022-11-06T23:39:32+01:00",
+				"url": "https://furstenberg.co/2022/11/06/i-played-the.html"
+			},
+			{
 				"id": "http://furstenberg.micro.blog/2022/11/05/the-fact-that.html",
 				
 				"content_html": "<p>The fact that Netflix is not part of the TV app on Apple TV, made me forget Netflix in the end.</p>\n\n<p>Some months later I did not renew Netflix.</p>\n\n<p>It’s been months now and I haven’t really missed it. And that’s the power of the TV app. 📺</p>\n",
@@ -33,8 +49,8 @@
 			{
 				"id": "http://furstenberg.micro.blog/2022/11/02/there-will-be.html",
 				
-				"content_html": "<p>There will be no feast outside today.</p>\n\n<p><img src=\"uploads/2022/b0c625bb88.jpg\" width=\"295\" height=\"600\" alt=\"Screenshot from a weather forecast that says: “Heavy rain in the morning and partly cloudy throughout the day” with heavy rain illustrated on screen.\"></p>\n",
-				"content_text": "There will be no feast outside today.\n\n<img src=\"uploads/2022/b0c625bb88.jpg\" width=\"295\" height=\"600\" alt=\"Screenshot from a weather forecast that says: “Heavy rain in the morning and partly cloudy throughout the day” with heavy rain illustrated on screen.\">\n",
+				"content_html": "<p>There will be no feast outside today.</p>\n\n<p><img src=\"https://furstenberg.co/uploads/2022/b0c625bb88.jpg\" width=\"295\" height=\"600\" alt=\"Screenshot from a weather forecast that says: “Heavy rain in the morning and partly cloudy throughout the day” with heavy rain illustrated on screen.\"></p>\n",
+				"content_text": "There will be no feast outside today.\n\n<img src=\"https://furstenberg.co/uploads/2022/b0c625bb88.jpg\" width=\"295\" height=\"600\" alt=\"Screenshot from a weather forecast that says: “Heavy rain in the morning and partly cloudy throughout the day” with heavy rain illustrated on screen.\">\n",
 				"date_published": "2022-11-02T09:15:15+01:00",
 				"url": "https://furstenberg.co/2022/11/02/there-will-be.html"
 			},
