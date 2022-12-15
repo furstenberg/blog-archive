@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://furstenberg.micro.blog/2022/12/15/finished-reading-forward.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781439507193\">Forward the Foundation</a> by Isaac Asimov 📚</p>\n",
+				"content_text": "Finished reading: [Forward the Foundation](https://micro.blog/books/9781439507193) by Isaac Asimov 📚\n",
+				"date_published": "2022-12-15T07:19:04+01:00",
+				"url": "https://furstenberg.co/2022/12/15/finished-reading-forward.html"
+			},
+			{
+				"id": "http://furstenberg.micro.blog/2022/12/07/trying-out-marsedit.html",
+				
+				"content_html": "<p>Trying out <a href=\"https://redsweater.com/marsedit/\">MarsEdit 5</a> released today. Read <a href=\"https://redsweater.com/blog/3955/marsedit-5-like-wow\">Daniel&rsquo;s blog post</a> for more about the release.</p>\n",
+				"content_text": "Trying out [MarsEdit 5](https://redsweater.com/marsedit/) released today. Read [Daniel's blog post](https://redsweater.com/blog/3955/marsedit-5-like-wow) for more about the release.\n",
+				"date_published": "2022-12-07T16:25:55+01:00",
+				"url": "https://furstenberg.co/2022/12/07/trying-out-marsedit.html"
+			},
+			{
 				"id": "http://furstenberg.micro.blog/2022/11/29/finished-reading-later.html",
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781789098761\">Later</a> by Stephen King 📚</p>\n",
