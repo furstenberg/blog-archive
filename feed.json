@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://furstenberg.micro.blog/2023/07/05/fun-to-be.html",
+				
+				"content_html": "<p>Fun to be highlighted in <a href=\"https://glass.photo/highlights/rural-favorites\">Rural favorites</a> over at Glass.</p>\n",
+				"content_text": "Fun to be highlighted in [Rural favorites](https://glass.photo/highlights/rural-favorites) over at Glass. \n",
+				"date_published": "2023-07-05T22:53:22+02:00",
+				"url": "https://furstenberg.co/2023/07/05/fun-to-be.html"
+			},
+			{
+				"id": "http://furstenberg.micro.blog/2023/06/14/finished-reading-wool.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781476735115\">Wool</a> by Hugh Howey 📚</p>\n",
+				"content_text": "Finished reading: [Wool](https://micro.blog/books/9781476735115) by Hugh Howey 📚\n",
+				"date_published": "2023-06-14T23:41:48+02:00",
+				"url": "https://furstenberg.co/2023/06/14/finished-reading-wool.html"
+			},
+			{
 				"id": "http://furstenberg.micro.blog/2023/06/13/i-recently-commissioned.html",
 				
 				"content_html": "<p>I recently commissioned new profile pictures from <a href=\"https://social.lol/@andycarolan\">Andy Carolyn</a>.</p>\n\n<p>He did an amazing job and I’m very pleased with the result.</p>\n",
