@@ -7,6 +7,30 @@
 	"items": [
 		
 			{
+				"id": "http://furstenberg.micro.blog/2023/10/09/nothing-like-having.html",
+				
+				"content_html": "<p>Nothing like having other developers use the component I&rsquo;ve created to see all the flaws that needs fixing.</p>\n",
+				"content_text": "Nothing like having other developers use the component I've created to see all the flaws that needs fixing.\n",
+				"date_published": "2023-10-09T09:37:40+02:00",
+				"url": "https://furstenberg.co/2023/10/09/nothing-like-having.html"
+			},
+			{
+				"id": "http://furstenberg.micro.blog/2023/10/03/yesterdays-trip-to.html",
+				
+				"content_html": "<p>Yesterday&rsquo;s trip to the gym went by quickly thanks to the latest episode of <a href=\"https://www.rsspod.net/jarrod-blundy\">Really Specific Stories</a> by <a href=\"http://feldnotes.com\">Martin Feld</a>.</p>\n\n<p>Martin is a great interviewer and was joined this time by <a href=\"https://heydingus.net/blog/2023/10/my-appearance-on-really-specific-stories\">Jarrod Blundy</a>.</p>\n\n<p>If you like great interviews you&rsquo;ll like this show.</p>\n",
+				"content_text": "Yesterday's trip to the gym went by quickly thanks to the latest episode of [Really Specific Stories](https://www.rsspod.net/jarrod-blundy) by [Martin Feld](http://feldnotes.com). \n\nMartin is a great interviewer and was joined this time by [Jarrod Blundy](https://heydingus.net/blog/2023/10/my-appearance-on-really-specific-stories).\n\nIf you like great interviews you'll like this show.\n",
+				"date_published": "2023-10-03T11:16:58+02:00",
+				"url": "https://furstenberg.co/2023/10/03/yesterdays-trip-to.html"
+			},
+			{
+				"id": "http://furstenberg.micro.blog/2023/10/02/finished-reading-mammoths.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781250838001\">Mammoths at the Gates</a> by Nghi Vo 📚</p>\n",
+				"content_text": "Finished reading: [Mammoths at the Gates](https://micro.blog/books/9781250838001) by Nghi Vo 📚\n",
+				"date_published": "2023-10-02T22:52:25+02:00",
+				"url": "https://furstenberg.co/2023/10/02/finished-reading-mammoths.html"
+			},
+			{
 				"id": "http://furstenberg.micro.blog/2023/10/02/im-currently-creating.html",
 				
 				"content_html": "<p>I&rsquo;m currently creating a new responsive menu for the product I&rsquo;m working on.</p>\n\n<p>And it would be so much harder to do so if I didn&rsquo;t have <a href=\"https://polypane.app\">Polypane</a>, <em>&ldquo;the browser for ambitious web developers&rdquo;</em>.</p>\n\n<p>A big thank you to <a href=\"https://mastodon.social/@kilian\">Kilian</a> for creating it.</p>\n",
