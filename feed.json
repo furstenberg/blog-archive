@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://furstenberg.micro.blog/2023/10/16/finished-reading-masquerade.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781645240471\">Masquerade in Lodi</a> by Lois Mcmaster Bujold 📚</p>\n",
+				"content_text": "Finished reading: [Masquerade in Lodi](https://micro.blog/books/9781645240471) by Lois Mcmaster Bujold 📚\n",
+				"date_published": "2023-10-16T07:25:45+02:00",
+				"url": "https://furstenberg.co/2023/10/16/finished-reading-masquerade.html"
+			},
+			{
+				"id": "http://furstenberg.micro.blog/2023/10/12/finished-reading-thornhedge.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781250244109\">Thornhedge</a> by T. Kingfisher 📚</p>\n",
+				"content_text": "Finished reading: [Thornhedge](https://micro.blog/books/9781250244109) by T. Kingfisher 📚\n",
+				"date_published": "2023-10-12T07:18:02+02:00",
+				"url": "https://furstenberg.co/2023/10/12/finished-reading-thornhedge.html"
+			},
+			{
 				"id": "http://furstenberg.micro.blog/2023/10/09/nothing-like-having.html",
 				
 				"content_html": "<p>Nothing like having other developers use the component I&rsquo;ve created to see all the flaws that needs fixing.</p>\n",
