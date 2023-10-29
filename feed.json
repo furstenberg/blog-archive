@@ -7,6 +7,30 @@
 	"items": [
 		
 			{
+				"id": "http://furstenberg.micro.blog/2023/10/29/for-the-second.html",
+				
+				"content_html": "<p>For the second time this year the fire alarm went off in the middle of the night. 🤬</p>\n\n<p>It’s clear we have to replace the detectors we have, but researching this takes time. Time I’d like to spend on something else. 🤷‍♂️</p>\n",
+				"content_text": "For the second time this year the fire alarm went off in the middle of the night. 🤬\n\nIt’s clear we have to replace the detectors we have, but researching this takes time. Time I’d like to spend on something else. 🤷‍♂️\n",
+				"date_published": "2023-10-29T13:54:28+02:00",
+				"url": "https://furstenberg.co/2023/10/29/for-the-second.html"
+			},
+			{
+				"id": "http://furstenberg.micro.blog/2023/10/18/find-my.html",
+				"title": "Find My",
+				"content_html": "<p>My daughter lost her Apple Watch on her way home from school today.</p>\n\n<p>Minutes later I was using Find My to locate the Watch and saw that it was on the move with almost no battery left.</p>\n\n<p>A ten minute walk from the house was the last location Find My would show me.</p>\n\n<p>I was afraid of calling the watch and using up the battery. But after several minutes of not finding it at the last position, I took a chance and called it.</p>\n\n<p>Luckily someone answered and told me where to pick it up. 10 minutes later I was back home and the watch returned to my daughter.</p>\n\n<p>I <em>really</em> like Find My.</p>\n",
+				"content_text": "My daughter lost her Apple Watch on her way home from school today.\n\nMinutes later I was using Find My to locate the Watch and saw that it was on the move with almost no battery left.\n\nA ten minute walk from the house was the last location Find My would show me.\n\nI was afraid of calling the watch and using up the battery. But after several minutes of not finding it at the last position, I took a chance and called it.\n\nLuckily someone answered and told me where to pick it up. 10 minutes later I was back home and the watch returned to my daughter.\n\nI *really* like Find My.\n",
+				"date_published": "2023-10-18T14:22:55+02:00",
+				"url": "https://furstenberg.co/2023/10/18/find-my.html"
+			},
+			{
+				"id": "http://furstenberg.micro.blog/2023/10/17/currently-reading-all.html",
+				
+				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9781625676184\">All Souls Lost</a> by Dan Moren 📚</p>\n",
+				"content_text": "Currently reading: [All Souls Lost](https://micro.blog/books/9781625676184) by Dan Moren 📚\n",
+				"date_published": "2023-10-17T06:09:37+02:00",
+				"url": "https://furstenberg.co/2023/10/17/currently-reading-all.html"
+			},
+			{
 				"id": "http://furstenberg.micro.blog/2023/10/16/finished-reading-masquerade.html",
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781645240471\">Masquerade in Lodi</a> by Lois Mcmaster Bujold 📚</p>\n",
