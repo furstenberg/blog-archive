@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://furstenberg.micro.blog/2024/06/22/currently-playing-zelda.html",
+				
+				"content_html": "<p>Currently playing <a href=\"https://en.m.wikipedia.org/wiki/The_Legend_of_Zelda:_Tears_of_the_Kingdom\">Zelda: Tears of the Kingdom</a>.</p>\n\n<p>I now have gathered all the korok.\nI suspect named locations is mainly what I’m missing now.</p>\n\n<p>Completion: 97.56%.</p>\n",
+				"content_text": "Currently playing [Zelda: Tears of the Kingdom](https://en.m.wikipedia.org/wiki/The_Legend_of_Zelda:_Tears_of_the_Kingdom).\n\nI now have gathered all the korok. \nI suspect named locations is mainly what I’m missing now. \n\nCompletion: 97.56%.\n",
+				"date_published": "2024-06-22T18:24:12+02:00",
+				"url": "https://furstenberg.co/2024/06/22/currently-playing-zelda.html"
+			},
+			{
+				"id": "http://furstenberg.micro.blog/2024/06/10/im-excited-for.html",
+				
+				"content_html": "<p>I’m excited for WWDC today.</p>\n",
+				"content_text": "I’m excited for WWDC today.\n",
+				"date_published": "2024-06-10T17:21:59+02:00",
+				"url": "https://furstenberg.co/2024/06/10/im-excited-for.html"
+			},
+			{
 				"id": "http://furstenberg.micro.blog/2024/06/09/currently-playing-zelda.html",
 				
 				"content_html": "<p>Currently playing <a href=\"https://en.m.wikipedia.org/wiki/The_Legend_of_Zelda:_Tears_of_the_Kingdom\">Zelda: Tears of the Kingdom</a>.</p>\n\n<p>Completion: 88.12%.</p>\n\n<p>🎮</p>\n",
