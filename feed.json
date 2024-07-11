@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://furstenberg.micro.blog/2024/07/11/earlier-this-week.html",
+				
+				"content_html": "<p>Earlier this week we accepted a bid on our old house.</p>\n\n<p>It’s a relief to stop worrying about the costs of two mortgages and the upkeep of both houses.</p>\n\n<p>But more importantly, we can now concentrate on making this house our home.</p>\n\n<p>🏡</p>\n",
+				"content_text": "Earlier this week we accepted a bid on our old house.\n\nIt’s a relief to stop worrying about the costs of two mortgages and the upkeep of both houses.\n\nBut more importantly, we can now concentrate on making this house our home.\n\n🏡\n",
+				"date_published": "2024-07-11T09:53:27+02:00",
+				"url": "https://furstenberg.co/2024/07/11/earlier-this-week.html"
+			},
+			{
+				"id": "http://furstenberg.micro.blog/2024/07/07/the-payment-reminder.html",
+				
+				"content_html": "<p>The payment reminder for 1Password, led to me updating my 1Password billing from yearly to monthly.</p>\n\n<p>The transition over to Passwords on iOS 18 has begun.</p>\n\n<p>15 years of 1Password will come to an end.</p>\n",
+				"content_text": "The payment reminder for 1Password, led to me updating my 1Password billing from yearly to monthly. \n\nThe transition over to Passwords on iOS 18 has begun. \n\n15 years of 1Password will come to an end. \n",
+				"date_published": "2024-07-07T14:02:47+02:00",
+				"url": "https://furstenberg.co/2024/07/07/the-payment-reminder.html"
+			},
+			{
 				"id": "http://furstenberg.micro.blog/2024/07/03/currently-playing-zelda.html",
 				
 				"content_html": "<p>Currently playing <a href=\"https://en.m.wikipedia.org/wiki/The_Legend_of_Zelda:_Tears_of_the_Kingdom\">Zelda: Tears of the Kingdom</a>.</p>\n\n<p>Completion: 99.03%.</p>\n",
