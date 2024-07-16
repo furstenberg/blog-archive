@@ -7,10 +7,18 @@
 	"items": [
 		
 			{
+				"id": "http://furstenberg.micro.blog/2024/07/16/password-transition-update.html",
+				"title": "Password transition update",
+				"content_html": "<p>I recently started the <a href=\"/2024/07/07/the-payment-reminder.html\">transition from 1Password to the new Passwords app</a> in macOS 15.</p>\n\n<p>The experience of using the builtin system is much better than the experience of 1Password the last couple of years.</p>\n\n<p>Even though my son was using 1Password, the rest of my family was not. It didn’t work reliably enough for them.</p>\n\n<p>I’ve now setup different sharing groups in Passwords, and they are all using this. I’ll call that a win.</p>\n\n<p>The only thing keeping me from going all in right now, is something <a href=\"https://grepjason.sh\">Jason Burk</a> mentioned on the latest <a href=\"https://listen.hemisphericviews.com/115\">Hemispheric Views</a>. The risk of not being able to reach my password if something happens to iCloud.</p>\n\n<p>In essence, I would need a backup system of my passwords. 🤔</p>\n",
+				"content_text": "I recently started the [transition from 1Password to the new Passwords app](/2024/07/07/the-payment-reminder.html) in macOS 15.\n\nThe experience of using the builtin system is much better than the experience of 1Password the last couple of years.\n\nEven though my son was using 1Password, the rest of my family was not. It didn’t work reliably enough for them. \n\nI’ve now setup different sharing groups in Passwords, and they are all using this. I’ll call that a win.\n\nThe only thing keeping me from going all in right now, is something [Jason Burk](https://grepjason.sh) mentioned on the latest [Hemispheric Views](https://listen.hemisphericviews.com/115). The risk of not being able to reach my password if something happens to iCloud.\n\nIn essence, I would need a backup system of my passwords. 🤔\n",
+				"date_published": "2024-07-16T13:09:38+02:00",
+				"url": "https://furstenberg.co/2024/07/16/password-transition-update.html"
+			},
+			{
 				"id": "http://furstenberg.micro.blog/2024/07/11/earlier-this-week.html",
 				
-				"content_html": "<p>Earlier this week we accepted a bid on our old house.</p>\n\n<p>It’s a relief to stop worrying about the costs of two mortgages and the upkeep of both houses.</p>\n\n<p>But more importantly, we can now concentrate on making this house our home.</p>\n\n<p>🏡</p>\n",
-				"content_text": "Earlier this week we accepted a bid on our old house.\n\nIt’s a relief to stop worrying about the costs of two mortgages and the upkeep of both houses.\n\nBut more importantly, we can now concentrate on making this house our home.\n\n🏡\n",
+				"content_html": "<p>Earlier this week we accepted a bid on our old house.</p>\n\n<p>It’s a relief to stop worrying about the cost of two mortgages and the upkeep of both houses.</p>\n\n<p>But more importantly, we can now concentrate on making this house our home.</p>\n\n<p>🏡</p>\n",
+				"content_text": "Earlier this week we accepted a bid on our old house.\n\nIt’s a relief to stop worrying about the cost of two mortgages and the upkeep of both houses.\n\nBut more importantly, we can now concentrate on making this house our home.\n\n🏡\n",
 				"date_published": "2024-07-11T09:53:27+02:00",
 				"url": "https://furstenberg.co/2024/07/11/earlier-this-week.html"
 			},
