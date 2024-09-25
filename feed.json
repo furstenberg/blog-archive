@@ -7,10 +7,50 @@
 	"items": [
 		
 			{
+				"id": "http://furstenberg.micro.blog/2024/09/25/finished-reading-the.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780316525558\">The Mercy of Gods</a> by James S. A. Corey 📚</p>\n",
+				"content_text": "Finished reading: [The Mercy of Gods](https://micro.blog/books/9780316525558) by James S. A. Corey 📚\n",
+				"date_published": "2024-09-25T07:01:58+02:00",
+				"url": "https://furstenberg.co/2024/09/25/finished-reading-the.html"
+			},
+			{
+				"id": "http://furstenberg.micro.blog/2024/08/27/currently-reading-the.html",
+				
+				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9780316525558\">The Mercy of Gods</a> by James S. A. Corey 📚</p>\n",
+				"content_text": "Currently reading: [The Mercy of Gods](https://micro.blog/books/9780316525558) by James S. A. Corey 📚\n",
+				"date_published": "2024-08-27T07:01:37+02:00",
+				"url": "https://furstenberg.co/2024/08/27/currently-reading-the.html"
+			},
+			{
+				"id": "http://furstenberg.micro.blog/2024/08/27/finished-reading-witch.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781250826800\">Witch King</a> by Martha Wells 📚</p>\n",
+				"content_text": "Finished reading: [Witch King](https://micro.blog/books/9781250826800) by Martha Wells 📚\n",
+				"date_published": "2024-08-27T06:49:08+02:00",
+				"url": "https://furstenberg.co/2024/08/27/finished-reading-witch.html"
+			},
+			{
+				"id": "http://furstenberg.micro.blog/2024/08/25/i-have-a.html",
+				
+				"content_html": "<p>I have a ton of things to do today. And all I want to do is finish this book. 📚</p>\n",
+				"content_text": "I have a ton of things to do today. And all I want to do is finish this book. 📚\n",
+				"date_published": "2024-08-25T12:01:03+02:00",
+				"url": "https://furstenberg.co/2024/08/25/i-have-a.html"
+			},
+			{
+				"id": "http://furstenberg.micro.blog/2024/07/20/i-do-she.html",
+				
+				"content_html": "<p>“I do” she said 17 years ago today when asked if she wanted me to be her husband.</p>\n\n<p>I’ve said «I do» every day since.</p>\n\n<p>I am lucky to continue to have her in my life.</p>\n",
+				"content_text": "“I do” she said 17 years ago today when asked if she wanted me to be her husband. \n\nI’ve said «I do» every day since. \n\nI am lucky to continue to have her in my life.\n",
+				"date_published": "2024-07-20T09:18:34+02:00",
+				"url": "https://furstenberg.co/2024/07/20/i-do-she.html"
+			},
+			{
 				"id": "http://furstenberg.micro.blog/2024/07/16/password-transition-update.html",
 				"title": "Password transition update",
-				"content_html": "<p>I recently started the <a href=\"/2024/07/07/the-payment-reminder.html\">transition from 1Password to the new Passwords app</a> in macOS 15.</p>\n\n<p>The experience of using the builtin system is much better than the experience of 1Password the last couple of years.</p>\n\n<p>Even though my son was using 1Password, the rest of my family was not. It didn’t work reliably enough for them.</p>\n\n<p>I’ve now setup different sharing groups in Passwords, and they are all using this. I’ll call that a win.</p>\n\n<p>The only thing keeping me from going all in right now, is something <a href=\"https://grepjason.sh\">Jason Burk</a> mentioned on the latest <a href=\"https://listen.hemisphericviews.com/115\">Hemispheric Views</a>. The risk of not being able to reach my password if something happens to iCloud.</p>\n\n<p>In essence, I would need a backup system of my passwords. 🤔</p>\n",
-				"content_text": "I recently started the [transition from 1Password to the new Passwords app](/2024/07/07/the-payment-reminder.html) in macOS 15.\n\nThe experience of using the builtin system is much better than the experience of 1Password the last couple of years.\n\nEven though my son was using 1Password, the rest of my family was not. It didn’t work reliably enough for them. \n\nI’ve now setup different sharing groups in Passwords, and they are all using this. I’ll call that a win.\n\nThe only thing keeping me from going all in right now, is something [Jason Burk](https://grepjason.sh) mentioned on the latest [Hemispheric Views](https://listen.hemisphericviews.com/115). The risk of not being able to reach my password if something happens to iCloud.\n\nIn essence, I would need a backup system of my passwords. 🤔\n",
+				"content_html": "<p>I recently started the <a href=\"/2024/07/07/the-payment-reminder.html\">transition from 1Password to the new Passwords app</a> in macOS 15.</p>\n\n<p>The experience of using the builtin system is much better than the experience of 1Password the last couple of years.</p>\n\n<p>Even though my son was using 1Password, the rest of my family was not. It didn’t work reliably enough for them.</p>\n\n<p>I’ve now setup different sharing groups in Passwords, and they are all using this. I’ll call that a win.</p>\n\n<p>The only thing keeping me from going all in right now, is something <a href=\"https://grepjason.sh\">Jason Burk</a> mentioned on <a href=\"https://listen.hemisphericviews.com/115\">Hemispheric Views episode 115</a>. The risk of not being able to reach my password if something happens to iCloud.</p>\n\n<p>In essence, I would need a backup system of my passwords. 🤔</p>\n",
+				"content_text": "I recently started the [transition from 1Password to the new Passwords app](/2024/07/07/the-payment-reminder.html) in macOS 15.\n\nThe experience of using the builtin system is much better than the experience of 1Password the last couple of years.\n\nEven though my son was using 1Password, the rest of my family was not. It didn’t work reliably enough for them. \n\nI’ve now setup different sharing groups in Passwords, and they are all using this. I’ll call that a win.\n\nThe only thing keeping me from going all in right now, is something [Jason Burk](https://grepjason.sh) mentioned on [Hemispheric Views episode 115](https://listen.hemisphericviews.com/115). The risk of not being able to reach my password if something happens to iCloud.\n\nIn essence, I would need a backup system of my passwords. 🤔\n",
 				"date_published": "2024-07-16T13:09:38+02:00",
 				"url": "https://furstenberg.co/2024/07/16/password-transition-update.html"
 			},
