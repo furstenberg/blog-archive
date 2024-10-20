@@ -7,6 +7,30 @@
 	"items": [
 		
 			{
+				"id": "http://furstenberg.micro.blog/2024/10/20/getting-ready-to.html",
+				
+				"content_html": "<p>Getting ready to leave for my daughter’s latest soccer tournament.</p>\n\n<p>Why is it always so early in the morning? ⚽️</p>\n",
+				"content_text": "Getting ready to leave for my daughter’s latest soccer tournament. \n\nWhy is it always so early in the morning? ⚽️\n",
+				"date_published": "2024-10-20T08:36:26+02:00",
+				"url": "https://furstenberg.co/2024/10/20/getting-ready-to.html"
+			},
+			{
+				"id": "http://furstenberg.micro.blog/2024/10/13/i-finished-an.html",
+				
+				"content_html": "<p>I finished an outdoor walk to close my rings for today.</p>\n\n<p>Not motivated to walk tonight.</p>\n\n<p>But I’m doing the «Hemispheric October!» challenge this month, and I want those points!</p>\n\n<p>Really pleased I finished today.</p>\n",
+				"content_text": "I finished an outdoor walk to close my rings for today. \n\nNot motivated to walk tonight. \n\nBut I’m doing the «Hemispheric October!» challenge this month, and I want those points!\n\nReally pleased I finished today. \n",
+				"date_published": "2024-10-13T22:03:25+02:00",
+				"url": "https://furstenberg.co/2024/10/13/i-finished-an.html"
+			},
+			{
+				"id": "http://furstenberg.micro.blog/2024/10/12/having-spent-five.html",
+				
+				"content_html": "<p>Having spent five days in the mountains, it’s good to be home.</p>\n\n<p>It was a relaxing few days, which we’ll need, since renovations starts next week.</p>\n",
+				"content_text": "Having spent five days in the mountains, it’s good to be home. \n\nIt was a relaxing few days, which we’ll need, since renovations starts next week. \n",
+				"date_published": "2024-10-12T18:04:31+02:00",
+				"url": "https://furstenberg.co/2024/10/12/having-spent-five.html"
+			},
+			{
 				"id": "http://furstenberg.micro.blog/2024/10/10/finished-reading-the.html",
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781915998019\">The Armageddon Protocol</a> by Dan Moren 📚</p>\n",
