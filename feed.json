@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://furstenberg.micro.blog/2024/12/08/watching-die-hard.html",
+				
+				"content_html": "<p>Watching <a href=\"https://boxd.it/2a7u\">Die Hard</a>.</p>\n\n<p>🎄</p>\n",
+				"content_text": "Watching [Die Hard](https://boxd.it/2a7u). \n\n🎄\n",
+				"date_published": "2024-12-08T18:46:36+01:00",
+				"url": "https://furstenberg.co/2024/12/08/watching-die-hard.html"
+			},
+			{
+				"id": "http://furstenberg.micro.blog/2024/11/11/currently-playing-zelda.html",
+				
+				"content_html": "<p>Currently playing <a href=\"https://en.m.wikipedia.org/wiki/The_Legend_of_Zelda:_Tears_of_the_Kingdom\">Zelda: Tears of the Kingdom</a>.</p>\n\n<p>After 445 hours…</p>\n\n<p>Completion: 100%.</p>\n",
+				"content_text": "Currently playing [Zelda: Tears of the Kingdom](https://en.m.wikipedia.org/wiki/The_Legend_of_Zelda:_Tears_of_the_Kingdom).\n\nAfter 445 hours…\n\nCompletion: 100%.\n",
+				"date_published": "2024-11-11T23:07:22+01:00",
+				"url": "https://furstenberg.co/2024/11/11/currently-playing-zelda.html"
+			},
+			{
 				"id": "http://furstenberg.micro.blog/2024/11/07/currently-playing-zelda.html",
 				
 				"content_html": "<p>Currently playing <a href=\"https://en.m.wikipedia.org/wiki/The_Legend_of_Zelda:_Tears_of_the_Kingdom\">Zelda: Tears of the Kingdom</a>.</p>\n\n<p>Completion: 99.43%.</p>\n",
