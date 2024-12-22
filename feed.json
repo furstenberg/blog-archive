@@ -7,6 +7,30 @@
 	"items": [
 		
 			{
+				"id": "http://furstenberg.micro.blog/2024/12/22/its-been-a-long-time.html",
+				
+				"content_html": "<p>It’s been a long time since <a href=\"https://furstenberg.co/2018/06/16/playing-hollow-night.html\">I played</a> <a href=\"https://en.wikipedia.org/wiki/Hollow_Knight\">Hollow Knight</a>. Today I picked it up again, and I’m making progress.</p>\n\n<p>It’s a fun game.</p>\n",
+				"content_text": "It’s been a long time since [I played](https://furstenberg.co/2018/06/16/playing-hollow-night.html) [Hollow Knight](https://en.wikipedia.org/wiki/Hollow_Knight). Today I picked it up again, and I’m making progress. \n\nIt’s a fun game. \n",
+				"date_published": "2024-12-22T20:42:03+01:00",
+				"url": "https://furstenberg.co/2024/12/22/its-been-a-long-time.html"
+			},
+			{
+				"id": "http://furstenberg.micro.blog/2024/12/10/a-recent-upgrade.html",
+				
+				"content_html": "<p>A recent upgrade to one of my streaming subscriptions means I can watch Champions League matches.</p>\n\n<p>Now watching Girona vs Liverpool.</p>\n\n<p>⚽️</p>\n",
+				"content_text": "A recent upgrade to one of my streaming subscriptions means I can watch Champions League matches. \n\nNow watching Girona vs Liverpool. \n\n⚽️\n",
+				"date_published": "2024-12-10T19:16:20+01:00",
+				"url": "https://furstenberg.co/2024/12/10/a-recent-upgrade.html"
+			},
+			{
+				"id": "http://furstenberg.micro.blog/2024/12/08/currently-playing-marvel.html",
+				
+				"content_html": "<p>Currently playing : <a href=\"https://en.wikipedia.org/wiki/Marvel_Rivals\">Marvel Rivals</a>.</p>\n\n<p>The concept is similar to <a href=\"https://en.wikipedia.org/wiki/Overwatch_2\">Overwatch 2</a>, which I enjoy. So I have been looking forward to this.</p>\n\n<p>It felt a bit chaotic right now, but it’s been 2 hours. I except it will go into regular play with my son.</p>\n\n<p>🎮</p>\n",
+				"content_text": "Currently playing : [Marvel Rivals](https://en.wikipedia.org/wiki/Marvel_Rivals). \n\nThe concept is similar to [Overwatch 2](https://en.wikipedia.org/wiki/Overwatch_2), which I enjoy. So I have been looking forward to this. \n\nIt felt a bit chaotic right now, but it’s been 2 hours. I except it will go into regular play with my son. \n\n🎮\n",
+				"date_published": "2024-12-08T20:57:43+01:00",
+				"url": "https://furstenberg.co/2024/12/08/currently-playing-marvel.html"
+			},
+			{
 				"id": "http://furstenberg.micro.blog/2024/12/08/watching-die-hard.html",
 				
 				"content_html": "<p>Watching <a href=\"https://boxd.it/2a7u\">Die Hard</a>.</p>\n\n<p>🎄</p>\n",
